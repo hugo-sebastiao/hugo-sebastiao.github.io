@@ -58,6 +58,8 @@ The platform automated nearly the entire workflow, replacing continuous manual o
 
 During experimental use and testing, the system achieved an average throughput of approximately **20 data points per hour** across fusion, sedimentation, and rheology measurements, including droplet detection, capture, and preparation.
 
+This reduced hands-on instrument time, increased experimental throughput, and made automated data generation more practical for routine use.
+
 ---
 
 Some visual examples have been simplified or anonymized to respect institutional data policies. The focus of this project description is the software architecture and automation workflows.
@@ -195,3 +197,9 @@ A **socket-based server architecture** was used to initialize, connect, and mana
 - Implemented automated droplet capture and measurement workflows
 - Integrated multiple hardware devices into a unified control system
 - Implemented logging, safety constraints, and microfluidics support
+
+### Engineering Challenges
+
+Key challenges included reliable droplet detection in live microscopy images, translating image coordinates into physical stage movements, coordinating heterogeneous hardware through different vendor interfaces, and maintaining safe automated operation during repeated measurement cycles.
+
+
