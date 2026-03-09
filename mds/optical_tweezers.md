@@ -6,24 +6,26 @@
 
 **Python-based automation platform for optical tweezers experiments integrating computer vision, hardware control, device APIs, and automated measurement workflows.**
 
+**The platform unified droplet detection, hardware coordination, experiment execution, and data generation into a modular system capable of running optical tweezers measurements with minimal user intervention.**
+
 Optical tweezers use focused laser beams to manipulate microscopic particles and are widely used in experiments such as DNA or RNA stretching and protein droplet studies.
 
 These experiments are often performed manually, requiring researchers to continuously control the instrument and extract data during each run.
 
-At the university of Dresden, I developed software to automate protein droplet experiments, allowing measurements to run autonomously based on predefined user parameters.
+At the University of Dresden, I developed software to automate protein droplet experiments, allowing measurements to run autonomously based on predefined user parameters.
 
 ### Problem
 Optical tweezers experiments required continuous manual control and data extraction, limiting experimental throughput and requiring researchers to remain at the instrument for long periods.
 
 ### Solution
-I developed a software system capable of controlling the optical tweezers setup and automatically executing experiments based on user-defined parameters. Multiple automation workflows were implemented and integrated into a single application with a graphical user interface.
+I designed and implemented the complete automation software platform for the optical tweezers setup, integrating computer vision, device control, experiment orchestration, automated measurement routines, and graphical user interaction into a single system.
 
 To improve maintainability and adaptability, the workflows were organized into modular software packages, making the system easier to modify, extend, and reuse.
 
 A unified software layer was implemented to coordinate heterogeneous hardware devices through their vendor APIs, enabling centralized control of the experimental setup.
 
 ### Impact
-The system automated nearly the entire experimental workflow, significantly reducing the need for continuous user intervention and allowing researchers to perform other tasks while measurements were running.
+The platform automated nearly the entire experimental workflow, replacing continuous manual operation with autonomous droplet detection, capture, and measurement execution while researchers could focus on other tasks.
 
 During experimental use and testing, the platform achieved an average throughput of approximately **20 data points per hour** across fusion, sedimentation, and rheology measurements, including droplet detection, capture, and preparation.
 
@@ -54,6 +56,8 @@ An automated routine was implemented to capture droplets detected in the visual 
 
 This process continues until all required laser paths contain droplets. The system also ensures that only droplets above a **user-defined minimum radius** are selected.
 
+This routine formed the core experimental control loop of the platform, linking computer vision output to automated motor positioning and trap loading.
+
 ---
 
 ### Measurement Workflows
@@ -64,6 +68,8 @@ Several measurement routines were implemented and made selectable through the gr
 - rheology measurements  
 
 Each routine could be repeated a user-defined number of times for the same droplet before discarding it and repeating the process with a new droplet set.
+
+Similar workflow patterns were implemented across fusion, sedimentation, and rheology routines, allowing the same software framework to support multiple experimental protocols.
 
 The overall automation workflow for droplet capture and measurements is shown below.
 
