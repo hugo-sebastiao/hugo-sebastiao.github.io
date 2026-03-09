@@ -10,7 +10,7 @@ Recent work includes:
 - automating optical tweezers experiments with computer vision, hardware control, and workflow orchestration
 - building control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis
 
-**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems. Need help with instrument software or lab automation? Get in touch. <a href="#contact">Contact</a>**
+**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems. Need help with instrument software or lab automation? <a href="#contact">Contact</a>** Me.
 
 <p class="top-links">
   <a href="#projects">Projects</a>
