@@ -175,3 +175,7 @@ This project demonstrated the value of combining device control, synchronized ac
 - Implemented synchronized **scanning and photon acquisition**
 - Built a **modular architecture** that supports extension to new hardware and procedures
 - Developed a **graphical user interface** for microscope control and live visualization
+
+### Engineering Challenges
+
+Key challenges included coordinating multiple hardware interfaces, ensuring reliable synchronization across acquisition components, and providing real-time feedback without interrupting the imaging workflow. The software was designed to keep these responsibilities modular, making the system easier to maintain and extend.
