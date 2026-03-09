@@ -1,10 +1,17 @@
 # Hugo Sebastião
 
 ## Scientific Software Engineer
+ **Available for consulting in scientific software, instrument automation, and experimental workflow development.**
 
-Scientific software for experimental instrumentation, automation, and data analysis, with experience in microscopy systems.
+**Scientific software engineer pursuing a PhD, specialized in instrument control, experiment automation, and real-time analysis. I build software that integrates hardware APIs, computer vision, data acquisition, and analysis into reliable systems for custom scientific instruments.**
 
-I develop software for scientific instrumentation and automated experimental workflows, focusing on hardware integration, real-time data processing, and scientific automation systems.
+I build software for custom scientific instruments and experimental workflows, including device integration, acquisition control, computer vision, and online data processing.
+
+Recent work includes:
+- automated optical tweezers experiments with computer vision and workflow orchestration
+- multiphoton FLIM microscope control with synchronized acquisition and real-time lifetime analysis
+
+**I help research groups and instrument teams turn manual experimental setups into reliable, automated software systems.**
 
 <p class="top-links">
   <a href="#projects">Projects</a>
@@ -14,13 +21,51 @@ I develop software for scientific instrumentation and automated experimental wor
 
 ---
 
-## What I Work On
+## What I Work On/What I Can Help On
 
-- Hardware and device API integration
-- Scientific software development
-- Automation workflows
-- Real-time data analysis
-- Computer vision for experiments
+- Instrument control software
+- Hardware/API integration
+- Experiment automation
+- Data analysis automation
+- Real-time acquisition and analysis
+- Computer vision for microscopy/lab workflows
+- Scientific Python applications and GUIs
+- Refactoring research code into maintainable tools
+
+## Technical Stack
+
+Languages: 
+- Python (main)
+- C/C++
+- MATLAB
+- Java Script
+
+Scientific/data: 
+- NumPy
+- SciPy
+- OpenCV
+- Torch
+- Signal processing
+- Image processing
+  
+Instrumentation: 
+- hardware APIs
+- Serial/socket communication
+- Synchronized acquisition
+- Multiprocessing/Multithreading
+
+Interfaces: 
+- PyQt/PySide
+- Dashboards
+- Workflow GUIs
+  
+Engineering: 
+- Modular architecture
+- Logging, testing
+- Reproducibility
+- Automation
+
+
 
 ---
 
@@ -36,6 +81,8 @@ Python-based automation platform for optical tweezers experiments integrating co
 - modular workflow design
 - integrated hardware control
 
+Developed at Technical University of Dresden
+
 [Read more →](mds/optical_tweezers.html)
 
 ### Multiphoton FLIM Microscope Control Software
@@ -47,16 +94,21 @@ Software platform for multiphoton fluorescence lifetime imaging microscopy integ
 - TCSPC data acquisition
 - real-time fluorescence lifetime visualization
 
+Developed at INL - International Iberian Nanotechnology Laboratory
+Base software is still in use.
+
 [Read more →](mds/FLIM.html)
 
 ---
 
-## About
+## About Me
 
 I have a background in biomedical engineering and scientific software with experience in microscopy systems, automation, and computational research workflows. My work combines software engineering with experimental instrumentation and computational modeling environments.
 
+[Read more →](mds/AboutMe.html)
+
 ---
 <h2 id="contact">Contact</h2>
-
+LinkedIn: www.linkedin.com/in/hugo-mvs-sebastiao
 email: hugo.sebastiao.work@gmail.com
 
