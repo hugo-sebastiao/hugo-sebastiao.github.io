@@ -75,6 +75,7 @@ Developed a Python-based automation platform for optical tweezers experiments, i
 The software unified droplet detection, hardware coordination, experiment execution, and data generation in a single workflow-oriented platform designed for real experimental use.
 
 **Highlights**
+
 - YOLO-NAS droplet detection
 - Automated droplet capture
 - Modular workflow design
@@ -83,6 +84,7 @@ The software unified droplet detection, hardware coordination, experiment execut
 - Computer vision-guided experiment logic
 
 **Outcome**  
+
 Reduced hands-on operator involvement and made optical tweezers measurements more repeatable through workflow automation.
 
 Developed at Technical University of Dresden.
@@ -98,6 +100,7 @@ Developed control software for a multiphoton fluorescence lifetime imaging micro
 The system was built to coordinate multiple hardware and acquisition components while providing live visualization and analysis during operation.
 
 **Highlights**
+
 - Device API integration
 - Synchronized scanning
 - TCSPC data acquisition
@@ -106,6 +109,7 @@ The system was built to coordinate multiple hardware and acquisition components 
 - Scientific GUI development
 
 **Outcome**  
+
 Enabled synchronized measurement and live lifetime analysis in a single software environment used in day-to-day microscope operation.
 
 Developed at INL – International Iberian Nanotechnology Laboratory.  
