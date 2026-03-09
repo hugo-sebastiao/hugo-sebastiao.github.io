@@ -16,9 +16,10 @@ Recent work includes:
 <p class="top-links">
   <a href="#projects">Projects</a>
   <span> | </span>
-  <a href="#contact">Contact</a>
+  <a href="#AboutMe">About Me</a>
   <span> | </span>
-  <a href="#About Me">About Me</a>
+  <a href="#contact">Contact</a>
+
 </p>
 
 ---
@@ -103,7 +104,7 @@ Base software is still in use.
 
 ---
 
-<h2 id="contact">About Me</h2>
+<h2 id="AboutMe">About Me</h2>
 
 I have a background in biomedical engineering and scientific software with experience in microscopy systems, automation, and computational research workflows. My work combines software engineering with experimental instrumentation and computational modeling environments.
 
