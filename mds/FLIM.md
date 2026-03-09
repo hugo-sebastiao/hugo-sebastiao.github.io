@@ -5,22 +5,22 @@
 **Environment:** Multiphoton fluorescence lifetime imaging microscopy (MP-FLIM)
 
 **Problem**  
-Custom multiphoton FLIM systems require precise synchronization between multiple hardware components, while commercial microscope software often lacks the flexibility needed for custom workflows, hardware integration, and real-time analysis.
+Custom multiphoton FLIM systems require precise coordination between multiple hardware components, while commercial microscope software often lacks the flexibility needed for custom workflows, device integration, and real-time analysis.
 
 **Built**  
 A modular software platform for microscope control, synchronized scanning, photon acquisition, real-time fluorescence lifetime analysis, and live visualization.
 
 **Outcome**  
-Enabled unified control of the MP-FLIM system, synchronized multi-device acquisition, and real-time lifetime imaging for laboratory experiments with multi-colour labelled biological samples.
+Enabled unified control of the MP-FLIM system, synchronized multi-device acquisition, and real-time lifetime imaging for biological experiments with multi-colour labelled samples.
 
 **Stack**  
-Python, hardware APIs, TCSPC, real-time processing, scientific instrumentation control, GUI development.
+Python, hardware APIs, TCSPC, real-time processing, scientific instrumentation control, GUI development
 
 ### Overview
 
-At the **International Iberian Nanotechnology Laboratory (INL)**, I developed the complete software control and analysis platform for a nonlinear multiphoton fluorescence lifetime imaging microscope (MP-FLIM).
+At the **International Iberian Nanotechnology Laboratory (INL)**, I developed the software platform for control, acquisition, and analysis of a nonlinear multiphoton fluorescence lifetime imaging microscope (MP-FLIM).
 
-The platform unified hardware control, scanning orchestration, photon acquisition, real-time fluorescence lifetime analysis, and live visualization into a single software environment for biological imaging experiments.
+The platform brought together hardware control, scanning orchestration, photon acquisition, real-time fluorescence lifetime analysis, and live visualization in a single software environment for biological imaging experiments.
 
 This work was developed within the **ExtreMED research project**, focused on ultrafast laser technologies for biomedical imaging.
 
@@ -28,7 +28,7 @@ This work was developed within the **ExtreMED research project**, focused on ult
 
 ### Problem
 
-The microscope combined several specialized subsystems that had to operate in precise synchronization, including:
+The microscope combined several specialized subsystems that needed to operate in tight synchronization, including:
 
 - femtosecond laser sources
 - galvanometric scanning mirrors
@@ -36,7 +36,7 @@ The microscope combined several specialized subsystems that had to operate in pr
 - photon detectors
 - time-correlated single photon counting (TCSPC) electronics
 
-Commercial microscope software did not provide the flexibility required for this hardware configuration or for integrated real-time FLIM analysis. The project therefore required custom software capable of coordinating multiple devices, controlling scanning workflows, acquiring photon data, and processing fluorescence lifetime information during acquisition.
+Commercial microscope software did not provide the flexibility required for this custom hardware configuration or for integrated real-time FLIM analysis. The project therefore required custom software capable of coordinating devices, managing scanning workflows, acquiring photon data, and processing fluorescence lifetime information during acquisition.
 
 ---
 
@@ -50,13 +50,13 @@ I designed and implemented a modular software platform that integrates:
 - real-time fluorescence lifetime computation
 - live visualization and analysis tools
 
-Major workflows were implemented as independent software modules, making the platform maintainable, extensible, and adaptable to new hardware and experimental procedures.
+The system was structured into independent software modules, making it maintainable, extensible, and adaptable to new hardware and experimental procedures.
 
 ---
 
 ### System Architecture
 
-The software coordinates communication between the control computer and the microscope subsystems, including:
+The software coordinates communication between the control computer and the main microscope subsystems, including:
 
 - laser shutter
 - galvanometric scanning mirrors
@@ -65,7 +65,7 @@ The software coordinates communication between the control computer and the micr
 - photon detectors
 - TCSPC photon counting electronics
 
-These components are synchronized within a unified software environment to perform controlled scanning and real-time photon acquisition.
+These components operate within a unified software environment that supports controlled scanning and real-time photon acquisition.
 
 <p align="center">
 <img src="../assets/img/thesis_diagram.png" width="700">
@@ -85,7 +85,7 @@ I developed dedicated control modules for the microscope components using **manu
 - detector triggering
 - synchronization with TCSPC electronics
 
-This required integrating multiple hardware interfaces into a single coordinated software platform.
+This allowed multiple hardware interfaces to be integrated into a single coordinated control platform.
 
 ---
 
@@ -101,7 +101,7 @@ Implemented capabilities include:
 - synchronized photon detection
 - automated scan-grid generation
 
-These scanning modes support different imaging configurations and experimental requirements through a unified user interface.
+These acquisition modes support different imaging configurations and experimental requirements through a unified user interface.
 
 <p align="center">
 <img src="../assets/img/thesis_data.png" width="700">
@@ -112,7 +112,7 @@ These scanning modes support different imaging configurations and experimental r
 
 ### Real-Time Fluorescence Lifetime Analysis
 
-The platform processes photon arrival data in real time using **Time-Correlated Single Photon Counting (TCSPC)** signals. Implemented analysis workflows include:
+The platform processes photon arrival data in real time using **time-correlated single photon counting (TCSPC)** signals. Implemented analysis workflows include:
 
 - photon-arrival histogram generation for each pixel
 - exponential decay fitting
@@ -125,7 +125,7 @@ This allowed researchers to assess fluorescence lifetime contrast while experime
 
 ### Real-Time Visualization
 
-The software provides live visual feedback during acquisition, including:
+The software provides live feedback during acquisition, including:
 
 - fluorescence intensity images
 - fluorescence lifetime maps
@@ -147,12 +147,12 @@ The platform was successfully applied in laboratory experiments with multi-colou
 
 It enabled:
 
-- unified control of the microscope subsystems
+- unified control of microscope subsystems
 - synchronized scanning and photon acquisition
 - real-time fluorescence lifetime visualization
 - differentiation of multiple fluorophores using a single detector
 
-The project demonstrated the value of combining device control, synchronized acquisition, real-time analysis, and visualization in a single custom scientific software platform.
+This project demonstrated the value of combining device control, synchronized acquisition, real-time analysis, and visualization in a single custom scientific software platform.
 
 ---
 
@@ -169,7 +169,7 @@ The project demonstrated the value of combining device control, synchronized acq
 
 ### Key Contributions
 
-- Designed and implemented the **complete software control and analysis platform** for a multiphoton FLIM microscope
+- Designed and implemented the software platform for control and analysis of a multiphoton FLIM microscope
 - Integrated multiple microscope devices through **manufacturer APIs and device libraries**
 - Developed **real-time fluorescence lifetime analysis workflows**
 - Implemented synchronized **scanning and photon acquisition**
