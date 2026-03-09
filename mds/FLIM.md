@@ -66,7 +66,7 @@ These components are synchronized to perform controlled scanning and real-time d
 **Architecture diagram**
 
 <p align="center">
-<img src="assets/img/thesis_diagram.png" width="700">
+<img src="../assets/img/thesis_diagram.png" width="700">
 </p>
 <p align="center"><em>Figure 7. Software diagram </em></p>
 
@@ -138,7 +138,7 @@ These visualizations provide immediate feedback and allow rapid evaluation of ex
 **Graphical user interface**
 
 <p align="center">
-<img src="assets/img/thesis_gui.png" width="700">
+<img src="../assets/img/thesis_gui.png" width="700">
 </p>
 <p align="center"><em>Figure 8. Graphical User Interface developed for the project </em></p>
 ---
@@ -172,7 +172,7 @@ This demonstrates the effectiveness of integrating device control, real-time dat
 
 
 <p align="center">
-<img src="assets/img/thesis_data.png" width="700">
+<img src="../assets/img/thesis_data.png" width="700">
 </p>
 <p align="center"><em>Figure 9. Example of data extracted using the software </em></p>
 
