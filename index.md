@@ -1,6 +1,4 @@
----
-layout: post
----
+
 # 1. Introduction
 
 I develop software and automation tools for scientific workflows. My work focuses on building reproducible data pipelines, automating experimental analysis, and creating computational tools for research environments. My background includes microscopy data processing and musculoskeletal modeling simulations, with an emphasis on improving efficiency and reliability in complex research workflows.
