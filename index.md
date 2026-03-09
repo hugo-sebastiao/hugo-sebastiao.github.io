@@ -1,17 +1,16 @@
 # Hugo Sebastião
 
 ## Scientific Software Engineer
- **Available for consulting in scientific software, instrument automation, and experimental workflow development.**
 
-**Scientific software engineer pursuing a PhD, specialized in instrument control, experiment automation, and real-time analysis. I build software that integrates hardware APIs, computer vision, data acquisition, and analysis into reliable systems for custom scientific instruments.**
+**Scientific software engineer finishing a PhD, specialized in instrument control, experiment automation, and real-time analysis. I build software that integrates hardware APIs, data acquisition, computer vision, and online analysis into reliable systems for custom scientific instruments.**
 
-I build software for custom scientific instruments and experimental workflows, including device integration, acquisition control, computer vision, and online data processing.
+**Available for consulting and full-time roles in scientific software, instrument automation, and experimental workflow development.**
+
+I help research labs and deep-tech teams turn complex experimental setups into robust, maintainable software systems.
 
 Recent work includes:
 - automated optical tweezers experiments with computer vision and workflow orchestration
 - multiphoton FLIM microscope control with synchronized acquisition and real-time lifetime analysis
-
-**I help research groups and instrument teams turn manual experimental setups into reliable, automated software systems.**
 
 <p class="top-links">
   <a href="#projects">Projects</a>
@@ -19,56 +18,55 @@ Recent work includes:
   <a href="#AboutMe">About Me</a>
   <span> | </span>
   <a href="#contact">Contact</a>
-
 </p>
 
 ---
 
-## What I Work On/What I Can Help On
+## What I Work On
 
 - Instrument control software
-- Hardware/API integration
-- Experiment automation
-- Data analysis automation
+- Hardware and device API integration
+- Experiment and workflow automation
 - Real-time acquisition and analysis
-- Computer vision for microscopy/lab workflows
+- Computer vision for microscopy and lab systems
 - Scientific Python applications and GUIs
+- Data analysis automation
 - Refactoring research code into maintainable tools
 
 ## Technical Stack
 
-Languages: 
-- Python (main)
+**Languages**
+- Python
 - C/C++
 - MATLAB
-- Java Script
+- JavaScript
 
-Scientific/data: 
+**Scientific and Data**
 - NumPy
 - SciPy
 - OpenCV
-- Torch
+- PyTorch
 - Signal processing
 - Image processing
-  
-Instrumentation: 
-- hardware APIs
-- Serial/socket communication
-- Synchronized acquisition
-- Multiprocessing/Multithreading
 
-Interfaces: 
-- PyQt/PySide
+**Instrumentation**
+- Hardware APIs
+- Serial and socket communication
+- Synchronized acquisition
+- Multiprocessing and multithreading
+
+**Interfaces**
+- PyQt / PySide
 - Dashboards
 - Workflow GUIs
-  
-Engineering: 
+
+**Engineering**
 - Modular architecture
-- Logging, testing
+- Logging and testing
 - Reproducibility
 - Automation
 
-
+**Core stack:** Python • NumPy/SciPy • OpenCV • PyQt/PySide • hardware APIs • serial/socket communication • scientific GUIs • real-time analysis • automation workflows
 
 ---
 
@@ -84,12 +82,13 @@ Python-based automation platform for optical tweezers experiments integrating co
 - modular workflow design
 - integrated hardware control
 
-Developed at Technical University of Dresden
+Developed at Technical University of Dresden.
 
 [Read more →](mds/optical_tweezers.html)
 
 ### Multiphoton FLIM Microscope Control Software
-Software platform for multiphoton fluorescence lifetime imaging microscopy integrating device control, synchronized scanning, and real-time lifetime analysis.
+
+Software platform for multiphoton fluorescence lifetime imaging microscopy, integrating device control, synchronized scanning, and real-time lifetime analysis.
 
 **Highlights**
 - device API integration
@@ -97,8 +96,8 @@ Software platform for multiphoton fluorescence lifetime imaging microscopy integ
 - TCSPC data acquisition
 - real-time fluorescence lifetime visualization
 
-Developed at INL - International Iberian Nanotechnology Laboratory
-Base software is still in use.
+Developed at INL – International Iberian Nanotechnology Laboratory.  
+Base software remains in use.
 
 [Read more →](mds/FLIM.html)
 
@@ -106,13 +105,14 @@ Base software is still in use.
 
 <h2 id="AboutMe">About Me</h2>
 
-I have a background in biomedical engineering and scientific software with experience in microscopy systems, automation, and computational research workflows. My work combines software engineering with experimental instrumentation and computational modeling environments.
+I have a background in biomedical engineering and scientific software, with experience in microscopy systems, automation, and computational research workflows. My work sits at the interface of software engineering, experimental instrumentation, and scientific data analysis.
 
 [Read more →](mds/AboutMe.html)
 
 ---
+
 <h2 id="contact">Contact</h2>
-LinkedIn: www.linkedin.com/in/hugo-mvs-sebastiao
 
-email: hugo.sebastiao.work@gmail.com
+LinkedIn: [linkedin.com/in/hugo-mvs-sebastiao](https://www.linkedin.com/in/hugo-mvs-sebastiao)
 
+Email: [hugo.sebastiao.work@gmail.com](mailto:hugo.sebastiao.work@gmail.com)
