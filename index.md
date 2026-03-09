@@ -17,6 +17,8 @@ Recent work includes:
   <a href="#projects">Projects</a>
   <span> | </span>
   <a href="#contact">Contact</a>
+  <span> | </span>
+  <a href="#About Me">About Me</a>
 </p>
 
 ---
@@ -101,7 +103,7 @@ Base software is still in use.
 
 ---
 
-## About Me
+<h2 id="contact">About Me</h2>
 
 I have a background in biomedical engineering and scientific software with experience in microscopy systems, automation, and computational research workflows. My work combines software engineering with experimental instrumentation and computational modeling environments.
 
@@ -110,5 +112,6 @@ I have a background in biomedical engineering and scientific software with exper
 ---
 <h2 id="contact">Contact</h2>
 LinkedIn: www.linkedin.com/in/hugo-mvs-sebastiao
+
 email: hugo.sebastiao.work@gmail.com
 
