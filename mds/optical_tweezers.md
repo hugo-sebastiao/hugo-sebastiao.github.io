@@ -48,7 +48,7 @@ This process continues until all required laser paths contain droplets. The syst
 
 
 <p align="center">
-  <img src="assets/img/droplet_detection.png" alt="Droplet detection" width="700">
+  <img src="../assets/img/droplet_detection.png" alt="Droplet detection" width="700">
 </p>
 
 <p align="center"><em>Figur 1. AI model to detect and extract dropelt positions</em></p>
@@ -66,31 +66,31 @@ Each routine could be repeated a user-defined number of times for the same dropl
 
 
 <p align="center">
-  <img src="assets/img/general_diagram_ot.png" alt="Droplet detection" width="700">
+  <img src="../assets/img/general_diagram_ot.png" alt="Droplet detection" width="700">
 </p>
 
 <p align="center"><em>Figure 2. General Workflow Diagram</em></p>
 
 <p align="center">
-  <img src="assets/img/sedimentation_workflow.png" alt="Droplet detection" width="700">
+  <img src="../assets/img/sedimentation_workflow.png" alt="Droplet detection" width="700">
 </p>
 
 <p align="center"><em>Figure 3. Example of sedimentation workflow </em></p>
 
 <p align="center">
-  <img src="assets/img/high_low_sed.png" alt="Droplet detection" width="700">
+  <img src="../assets/img/high_low_sed.png" alt="Droplet detection" width="700">
 </p>
 
 <p align="center"><em>Figure 4.  Example of data obtained from the workflow </em></p>
 
 <p align="center">
-  <img src="assets/img/fusion_time.png" alt="Droplet detection" width="700">
+  <img src="../assets/img/fusion_time.png" alt="Droplet detection" width="700">
 </p>
 
 <p align="center"><em>Figure 5.  Time performing a fusion with automation software for protein A </em></p>
 
 <p align="center">
-  <img src="assets/img/sed_time.png" alt="Droplet detection" width="700">
+  <img src="../assets/img/sed_time.png" alt="Droplet detection" width="700">
 </p>
 
 <p align="center"><em>Figure 6.  Time performing a sedimentation with automation software for protein A </em></p>
