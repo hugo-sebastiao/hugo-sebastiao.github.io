@@ -53,7 +53,7 @@ Software platform for multiphoton fluorescence lifetime imaging microscopy integ
 
 ## About
 
-I have a background in biomedical engineering and scientific software with experience in microscopy systems, automation, and computational research workflows. My work combines software engineering with experimental and modeling environments.
+I have a background in biomedical engineering and scientific software with experience in microscopy systems, automation, and computational research workflows. My work combines software engineering with experimental instrumentation and computational modeling environments.
 
 ---
 <h2 id="contact">Contact</h2>
