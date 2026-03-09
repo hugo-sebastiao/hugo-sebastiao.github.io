@@ -1,123 +1,29 @@
 ---
 layout: post
 ---
+# 1. Introduction
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I develop software and automation tools for scientific workflows. My work focuses on building reproducible data pipelines, automating experimental analysis, and creating computational tools for research environments. My background includes microscopy data processing and musculoskeletal modeling simulations, with an emphasis on improving efficiency and reliability in complex research workflows.
 
-[Link to another page](./another-page.html).
+# 2. Projects
 
-There should be whitespace between paragraphs.
+## 1. Automation of optical tweezers data acquisition
+Optical tweezers use focused laser beams to manipulate microscopic particles and are widely used in experiments such as DNA or RNA stretching and protein droplet studies. These experiments are often performed manually, requiring researchers to control the instrument and extract data during each run. I developed software to automate this process, allowing experiments to run autonomously based on predefined parameters.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Problem
+Optical tweezers experiments required continuous manual control and data extraction, limiting throughput and occupying researchers for long periods.
 
-# Header 1
+### Solution
+Developed software to control the optical tweezers system and automatically execute experiments based on user-defined parameters.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Impact
+Reduced manual intervention, increased experimental throughput, and allowed researchers to focus on other tasks during data acquisition.
 
 
-### Definition lists can be used with HTML syntax.
+# 3. Skills
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# 4. Contact information
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+email: hugo.sebastiao.work@gmail.com
+mobile: +49 1788084379
 
-```
-The final element.
-```
