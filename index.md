@@ -4,13 +4,13 @@
 
 I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
-My work focuses on instrument control, device integration, computer vision, data acquisition, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
+My work focuses on instrument control, device integration, computer vision, data acquisition, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices must work together reliably.
 
 Recent work includes:
 - automating optical tweezers experiments with computer vision, hardware control, and workflow orchestration
 - building control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis
 
-**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems. If you need help with instrument software or lab automation, <a href="#contact">get in touch</a>**.
+**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems. If you need help with instrument software or lab automation, <a href="#contact">get in touch</a>.**
 
 <p class="top-links">
   <a href="#projects">Projects</a>
@@ -29,18 +29,17 @@ Recent work includes:
 
 ## Why teams hire me
 
-I work at the intersection of software engineering and experimental research. I help when a project needs more than generic coding — for example, when software must coordinate hardware, support real-time acquisition, remain maintainable, and be usable by scientists in day-to-day operation.
+I work at the intersection of software engineering and experimental research. I help when instrument software needs to do more than just function in a prototype: it needs to coordinate hardware reliably, support acquisition and analysis, remain maintainable, and be usable by scientists in day-to-day work.
 
-I am particularly useful for projects where:
+I am particularly useful when teams are dealing with:
 
-- Software that only works when the original developer is there
-- Instruments that require too many manual steps
-- Fragile integrations between cameras, stages, detectors, and analysis code
-- Research prototypes that are hard to extend or trust
-- A prototype needs to become reliable software
-- Multiple instruments or devices must work together
-- A manual workflow needs to be automated
-- Research code has grown difficult to maintain
+- software that only works when the original developer is there
+- instruments that require too many manual steps
+- fragile integrations between cameras, stages, detectors, and analysis code
+- research prototypes that are hard to extend or trust
+- custom workflows that need to become reliable internal tools
+- multi-device systems that need to work together predictably
+- research codebases that have become difficult to maintain
 
 ---
 
@@ -96,7 +95,7 @@ The software unified droplet detection, hardware coordination, experiment execut
 - Computer vision-guided experiment logic
 
 **Outcome**  
-Reduced manual intervention and improved reproducibility by turning optical tweezers measurements into a more automation-driven workflow.
+Reduced hands-on operator involvement and made optical tweezers measurements more repeatable through workflow automation.
 
 Developed at Technical University of Dresden.
 
@@ -119,7 +118,7 @@ The system was built to coordinate multiple hardware and acquisition components 
 - Scientific GUI development
 
 **Outcome**  
-Delivered a control and acquisition platform that supported synchronized measurement and live analysis in day-to-day microscope operation.
+Enabled synchronized measurement and live lifetime analysis in a single software environment used in day-to-day microscope operation.
 
 Developed at INL – International Iberian Nanotechnology Laboratory.  
 Base software remains in use.
@@ -139,6 +138,8 @@ Additional experience with C/C++, MATLAB, JavaScript, signal and image processin
 <h2 id="about">About Me</h2>
 
 I have a background in biomedical engineering and scientific software, with experience at the interface of software engineering, experimental instrumentation, and scientific data analysis.
+
+I have worked on software for microscopy, optical tweezers, and hardware-integrated experimental systems in research environments where reliability and usability matter in day-to-day operation.
 
 My work is centered on systems where software has to interact directly with hardware, coordinate measurements, process scientific data, and remain usable in real research environments. I am particularly interested in projects involving custom instruments, microscopy, automation, and experimental workflows that have grown complex or difficult to maintain.
 
