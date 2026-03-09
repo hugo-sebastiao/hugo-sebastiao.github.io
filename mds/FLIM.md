@@ -6,7 +6,7 @@
 
 ### Overview
 
-During my Master's thesis at the **International Iberian Nanotechnology Laboratory (INL)**, I developed the complete software control and data-analysis system for a nonlinear multiphoton fluorescence lifetime imaging microscope (MP-FLIM).
+At the **International Iberian Nanotechnology Laboratory (INL)**, I developed the complete software control and data-analysis system for a nonlinear multiphoton fluorescence lifetime imaging microscope (MP-FLIM).
 
 The platform integrates hardware control, image acquisition, and real-time fluorescence lifetime analysis to support high-resolution imaging of biological samples labelled with multiple fluorophores.
 
