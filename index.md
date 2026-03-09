@@ -1,10 +1,10 @@
 # Hugo Sebastião
 
-## Scientific Software Engineer
+## Scientific Software for Custom Instruments and Lab Automation
 
-I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated scientific workflows.
+I help research labs and deep-tech teams build software for custom instruments, automated experiments, and hardware-integrated scientific workflows.
 
-From instrument control and device integration to computer vision, data acquisition, and real-time analysis, I develop maintainable systems that turn complex experimental setups into robust research tools.
+I develop reliable systems for instrument control, device integration, computer vision, data acquisition, and real-time analysis — turning complex experimental setups into robust and maintainable research tools.
 
 Recent work includes:
 - automating optical tweezers experiments with computer vision and workflow orchestration
@@ -26,53 +26,18 @@ Recent work includes:
 
 I can help with:
 
-- Instrument control software
+- Instrument control software for custom laboratory systems
 - Hardware and device API integration
 - Experiment and workflow automation
 - Real-time data acquisition and analysis
 - Computer vision for microscopy and lab systems
-- Scientific Python tools and custom GUIs
+- Scientific Python applications and custom GUIs
 - Automated data processing pipelines
 - Refactoring research code into maintainable software
 
 ---
 
-## Technical Stack
-
-**Languages**
-- Python
-- C/C++
-- MATLAB
-- JavaScript
-
-**Scientific and Data**
-- NumPy
-- SciPy
-- OpenCV
-- PyTorch
-- Signal processing
-- Image processing
-
-**Instrumentation**
-- Hardware APIs
-- Serial and socket communication
-- Synchronized acquisition
-- Multiprocessing and multithreading
-
-**Interfaces**
-- PyQt / PySide
-- Dashboards
-- Workflow GUIs
-
-**Engineering**
-- Modular architecture
-- Logging and testing
-- Reproducibility
-- Automation
-
-**Core stack:** Python • NumPy/SciPy • OpenCV • PyQt/PySide • hardware APIs • serial/socket communication • scientific GUIs • real-time analysis • automation workflows
-
----
+## Selected Work
 
 <h2 id="projects">Projects</h2>
 
@@ -107,6 +72,14 @@ Base software remains in use.
 
 ---
 
+## Technical Stack
+
+**Core stack:** Python • NumPy/SciPy • OpenCV • PyQt/PySide • hardware APIs • serial/socket communication • scientific GUIs • real-time analysis • automation workflows
+
+Additional experience with C/C++, MATLAB, JavaScript, signal and image processing, synchronized acquisition, multiprocessing, modular architecture, logging, testing, and reproducible scientific software development.
+
+---
+
 <h2 id="about">About Me</h2>
 
 I have a background in biomedical engineering and scientific software, with experience across microscopy systems, automation, and computational research workflows. My work sits at the interface of software engineering, experimental instrumentation, and scientific data analysis.
@@ -117,7 +90,7 @@ I have a background in biomedical engineering and scientific software, with expe
 
 <h2 id="contact">Contact</h2>
 
-If you are building or upgrading a scientific instrument, automating an experimental workflow, or need more reliable research software, feel free to get in touch by sending me a short description of your setup, workflow bottleneck, or integration problem.
+If you are building or upgrading a scientific instrument, automating an experimental workflow, or need more reliable research software, send me a short description of your setup, workflow bottleneck, or integration problem.
 
 LinkedIn: [linkedin.com/in/hugo-mvs-sebastiao](https://www.linkedin.com/in/hugo-mvs-sebastiao)
 
