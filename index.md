@@ -1,8 +1,62 @@
-# Introduction
+# Hugo Sebastião
 
-I develop software and automation tools for scientific workflows. My work focuses on building reproducible data pipelines, automating experimental analysis, and creating computational tools for research environments. 
+## Scientific Software Engineer
 
-My background includes microscopy data processing and musculoskeletal modeling simulations, with an emphasis on improving efficiency and reliability in complex research workflows.
+Automation, hardware integration, and data analysis for research workflows.
+
+I develop software for scientific instrumentation, automation, and data analysis. My work focuses on integrating hardware devices, building modular control systems, and creating real-time processing pipelines for experimental workflows.
+
+[View Projects](#projects) | [Contact](#contact)
+
+---
+
+## What I Work On
+
+- Scientific software development
+- Hardware and device API integration
+- Automation workflows
+- Real-time data analysis
+- Computer vision for experiments
+
+---
+
+## Projects
+
+### Optical Tweezers Automation
+Python-based automation platform for protein droplet experiments integrating computer vision, hardware APIs, and automated measurement workflows.
+
+**Highlights**
+- YOLO-NAS droplet detection
+- automated droplet capture
+- modular workflow design
+- integrated hardware control
+
+[Read more](optical-tweezers.html)
+
+### Multiphoton FLIM Microscope Control
+Custom software platform for multiphoton fluorescence lifetime imaging microscopy, integrating device control, synchronized scanning, and real-time fluorescence lifetime analysis.
+
+**Highlights**
+- device API integration
+- synchronized scanning
+- TCSPC data acquisition
+- real-time fluorescence lifetime visualization
+
+[Read more](mp-flim.html)
+
+---
+
+## About
+
+I have a background in biomedical engineering and scientific software, with experience in microscopy, automation, and computational research workflows. My work combines software engineering with experimental and modeling environments.
+
+---
+
+## Contact
+
+Email: your.email@example.com  
+GitHub: [github.com/yourusername](https://github.com/yourusername)
+
 
 # Projects
 ## 1. Automation of Optical Tweezers Data Acquisition
