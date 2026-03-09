@@ -117,7 +117,7 @@ I have a background in biomedical engineering and scientific software, with expe
 
 <h2 id="contact">Contact</h2>
 
-If you are building or upgrading a scientific instrument, automating an experimental workflow, or need more reliable research software, feel free to get in touch.
+If you are building or upgrading a scientific instrument, automating an experimental workflow, or need more reliable research software, feel free to get in touch by sending me a short description of your setup, workflow bottleneck, or integration problem.
 
 LinkedIn: [linkedin.com/in/hugo-mvs-sebastiao](https://www.linkedin.com/in/hugo-mvs-sebastiao)
 
