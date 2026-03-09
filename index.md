@@ -2,15 +2,15 @@
 
 ## Scientific Software Engineer
 
-**Scientific software engineer finishing a PhD, specialized in instrument control, experiment automation, and real-time analysis. I build software that integrates hardware APIs, data acquisition, computer vision, and online analysis into reliable systems for custom scientific instruments.**
+I build scientific software for research labs and deep-tech teams working with custom instruments, automation, and hardware-integrated experimental systems.
 
-**Available for consulting and full-time roles in scientific software, instrument automation, and experimental workflow development.**
-
-I help research labs and deep-tech teams turn complex experimental setups into robust, maintainable software systems.
+**Specialized in instrument control, experiment automation, real-time analysis, and scientific software engineering. I develop reliable systems that connect hardware APIs, data acquisition, computer vision, and online analysis into maintainable research tools.**
 
 Recent work includes:
 - automated optical tweezers experiments with computer vision and workflow orchestration
 - multiphoton FLIM microscope control with synchronized acquisition and real-time lifetime analysis
+
+**Available for freelance consulting in scientific software, instrument automation, and experimental workflow development.**
 
 <p class="top-links">
   <a href="#projects">Projects</a>
@@ -22,15 +22,15 @@ Recent work includes:
 
 ---
 
-## What I Work On
+## Services
 
 - Instrument control software
 - Hardware and device API integration
 - Experiment and workflow automation
 - Real-time acquisition and analysis
 - Computer vision for microscopy and lab systems
-- Scientific Python applications and GUIs
-- Data analysis automation
+- Scientific Python tools and GUIs
+- Automated data processing and analysis
 - Refactoring research code into maintainable tools
 
 ## Technical Stack
