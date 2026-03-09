@@ -8,6 +8,7 @@ I develop software for scientific instrumentation, automation, and data analysis
 
 <p class="top-links">
   <a href="#projects">Projects</a>
+  <span>|</span>
   <a href="#contact">Contact</a>
 </p>
 
