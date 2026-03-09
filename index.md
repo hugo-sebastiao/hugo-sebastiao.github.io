@@ -2,20 +2,20 @@
 
 ## Scientific Software Engineer
 
-I build scientific software for research labs and deep-tech teams working with custom instruments, automation, and hardware-integrated experimental systems.
+I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated scientific workflows.
 
-**Specialized in instrument control, experiment automation, real-time analysis, and scientific software engineering. I develop reliable systems that connect hardware APIs, data acquisition, computer vision, and online analysis into maintainable research tools.**
+From instrument control and device integration to computer vision, data acquisition, and real-time analysis, I develop maintainable systems that turn complex experimental setups into robust research tools.
 
 Recent work includes:
-- automated optical tweezers experiments with computer vision and workflow orchestration
-- multiphoton FLIM microscope control with synchronized acquisition and real-time lifetime analysis
+- automating optical tweezers experiments with computer vision and workflow orchestration
+- building control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis
 
 **Available for freelance consulting in scientific software, instrument automation, and experimental workflow development.**
 
 <p class="top-links">
   <a href="#projects">Projects</a>
   <span> | </span>
-  <a href="#AboutMe">About Me</a>
+  <a href="#about">About Me</a>
   <span> | </span>
   <a href="#contact">Contact</a>
 </p>
@@ -24,14 +24,18 @@ Recent work includes:
 
 ## Services
 
+I can help with:
+
 - Instrument control software
 - Hardware and device API integration
 - Experiment and workflow automation
-- Real-time acquisition and analysis
+- Real-time data acquisition and analysis
 - Computer vision for microscopy and lab systems
-- Scientific Python tools and GUIs
-- Automated data processing and analysis
-- Refactoring research code into maintainable tools
+- Scientific Python tools and custom GUIs
+- Automated data processing pipelines
+- Refactoring research code into maintainable software
+
+---
 
 ## Technical Stack
 
@@ -74,13 +78,13 @@ Recent work includes:
 
 ### Optical Tweezers Experiment Automation
 
-Python-based automation platform for optical tweezers experiments integrating computer vision, hardware APIs, and automated measurement workflows.
+Python-based automation platform for optical tweezers experiments, integrating computer vision, hardware control, and automated measurement workflows.
 
 **Highlights**
 - YOLO-NAS droplet detection
-- automated droplet capture
-- modular workflow design
-- integrated hardware control
+- Automated droplet capture
+- Modular workflow design
+- Integrated hardware control
 
 Developed at Technical University of Dresden.
 
@@ -91,10 +95,10 @@ Developed at Technical University of Dresden.
 Software platform for multiphoton fluorescence lifetime imaging microscopy, integrating device control, synchronized scanning, and real-time lifetime analysis.
 
 **Highlights**
-- device API integration
-- synchronized scanning
+- Device API integration
+- Synchronized scanning
 - TCSPC data acquisition
-- real-time fluorescence lifetime visualization
+- Real-time fluorescence lifetime visualization
 
 Developed at INL – International Iberian Nanotechnology Laboratory.  
 Base software remains in use.
@@ -103,15 +107,17 @@ Base software remains in use.
 
 ---
 
-<h2 id="AboutMe">About Me</h2>
+<h2 id="about">About Me</h2>
 
-I have a background in biomedical engineering and scientific software, with experience in microscopy systems, automation, and computational research workflows. My work sits at the interface of software engineering, experimental instrumentation, and scientific data analysis.
+I have a background in biomedical engineering and scientific software, with experience across microscopy systems, automation, and computational research workflows. My work sits at the interface of software engineering, experimental instrumentation, and scientific data analysis.
 
 [Read more →](mds/AboutMe.html)
 
 ---
 
 <h2 id="contact">Contact</h2>
+
+If you are building or upgrading a scientific instrument, automating an experimental workflow, or need more reliable research software, feel free to get in touch.
 
 LinkedIn: [linkedin.com/in/hugo-mvs-sebastiao](https://www.linkedin.com/in/hugo-mvs-sebastiao)
 
