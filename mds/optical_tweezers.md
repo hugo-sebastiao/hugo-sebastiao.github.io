@@ -1,51 +1,44 @@
-## Automation of Optical Tweezers Data Acquisition
+## Optical Tweezers Experiment Automation
 
 **Role:** Software Developer / Automation Engineer  
 **Focus:** Computer vision, hardware integration, workflow automation  
 **Environment:** Optical tweezers experimental platform
 
-**Problem**
+**Problem**  
+Optical tweezers experiments required continuous manual control, droplet selection, and manual data extraction, limiting throughput and requiring constant researcher supervision.
 
-Optical tweezers experiments required continuous manual control and manual data extraction, reducing throughput and requiring constant researcher supervision.
-
-**Built** 
-
-A modular automation platform integrating droplet detection, hardware control, automated droplet capture, experiment workflows, data generation, and graphical user interaction.
+**Built**  
+A modular automation platform integrating droplet detection, hardware control, automated droplet capture, experiment workflows, structured data generation, and graphical user interaction.
 
 **Outcome**  
-
-Automated nearly the full workflow and achieved approximately **20 data points per hour** across fusion, sedimentation, and rheology measurements.
+Automated nearly the full experimental workflow and achieved approximately **20 data points per hour** across fusion, sedimentation, and rheology measurements.
 
 **Stack**  
-
 Python, computer vision, YOLO-NAS, hardware APIs, socket communication, GUI development, automation workflows.
-
 
 ### Overview
 
-At the **Technical University of Dresden**, I developed a Python-based automation platform for optical tweezers experiments, integrating computer vision, hardware control, device APIs, and automated measurement workflows.
+At the **Technical University of Dresden**, I developed a Python-based automation platform for optical tweezers experiments, integrating computer vision, device control, experiment orchestration, and automated measurement workflows.
 
-The system unified droplet detection, hardware coordination, experiment execution, and data generation into a modular software platform capable of running optical tweezers measurements with minimal user intervention.
+The system unified droplet detection, hardware coordination, automated capture, experiment execution, and data generation into a modular software platform capable of running measurements with minimal user intervention.
 
-Optical tweezers use highly focused laser beams to manipulate microscopic particles and are widely used in experiments such as DNA or RNA stretching and protein droplet studies.
-
-These experiments are often performed manually, requiring researchers to continuously control the instrument, monitor the sample, and extract data during each run. The goal of this project was to replace that manual workflow with a reliable and extensible software system for automated experiments.
+Optical tweezers use highly focused laser beams to manipulate microscopic particles. In this setup, experiments were typically performed manually, requiring researchers to continuously monitor the sample, operate the instrument, and extract data during each run. The goal of this project was to replace that manual workflow with a reliable and extensible automation system.
 
 ---
 
 ### Problem
 
-Optical tweezers experiments required continuous manual control and manual data extraction, which limited throughput and required researchers to remain at the instrument for long periods.
+The experimental workflow depended on continuous manual control and manual data extraction, which reduced throughput and required researchers to remain at the instrument for long periods.
 
 A practical automation system needed to:
 
 - detect droplets reliably in live camera images
-- distinguish valid targets from debris and artifacts
+- distinguish valid droplets from debris and artifacts
 - convert detections into stage movements
 - coordinate multiple hardware devices through different vendor APIs
 - execute measurement workflows automatically
-- allow users to configure experiments through an accessible interface
-- generate structured data with minimal manual intervention
+- allow researchers to configure experiments through an accessible interface
+- generate structured output data with minimal manual intervention
 
 ---
 
@@ -53,15 +46,15 @@ A practical automation system needed to:
 
 I designed and implemented the complete automation software platform for the optical tweezers setup, integrating computer vision, device control, experiment orchestration, automated measurement routines, and graphical user interaction into a single system.
 
-To improve maintainability and adaptability, the workflows were organized into modular software packages, making the system easier to modify, extend, and reuse.
+To improve maintainability and extensibility, the workflows were organized into modular software packages, making the platform easier to adapt to new hardware, measurement types, and experimental procedures.
 
-A unified software layer was developed to coordinate heterogeneous hardware devices through their vendor APIs, enabling centralized control of the experimental setup.
+A unified software layer coordinated heterogeneous hardware devices through their vendor APIs, enabling centralized control of the full setup.
 
 ---
 
 ### Impact
 
-The platform automated nearly the entire experimental workflow, replacing continuous manual operation with autonomous droplet detection, capture, and measurement execution while researchers could focus on other tasks.
+The platform automated nearly the entire workflow, replacing continuous manual operation with autonomous droplet detection, capture, and measurement execution while researchers could focus on other tasks.
 
 During experimental use and testing, the system achieved an average throughput of approximately **20 data points per hour** across fusion, sedimentation, and rheology measurements, including droplet detection, capture, and preparation.
 
@@ -71,12 +64,12 @@ Some visual examples have been simplified or anonymized to respect institutional
 
 ### Droplet Detection
 
-Reliable droplet detection was required for full automation. I developed and trained a **YOLO-NAS-based computer vision model** capable of detecting droplets in the camera feed and distinguishing them from debris and other artifacts.
+Reliable droplet detection was a core requirement for full automation. I developed and trained a **YOLO-NAS-based computer vision model** capable of detecting droplets in the live camera feed and distinguishing them from debris and other artifacts.
 
 An automation workflow was built around this model to:
 
 - detect droplets automatically
-- extract their center pixel coordinates
+- extract center pixel coordinates
 - convert image coordinates into motor positions
 - enable automated droplet pickup using the laser trap
 
@@ -90,17 +83,17 @@ An automation workflow was built around this model to:
 
 ### Automated Droplet Capture
 
-An automated routine was implemented to capture droplets detected in the visual field. The algorithm determines whether a droplet is already trapped in the laser beam. If not, the system moves the motorized stage to the droplet position and captures it with the optical trap.
+I implemented an automated routine to capture droplets detected in the visual field. The algorithm determines whether a droplet is already trapped in the laser beam. If not, the system moves the motorized stage to the droplet position and captures it with the optical trap.
 
 This process continues until all required laser paths contain droplets. The software also ensures that only droplets above a **user-defined minimum radius** are selected.
 
-This routine formed the core experimental control loop of the platform, linking computer vision output to automated motor positioning and trap loading.
+This routine formed the core control loop of the platform, linking computer vision output directly to automated motor positioning and trap loading.
 
 ---
 
 ### Measurement Workflows
 
-Several measurement routines were implemented and made selectable through the graphical user interface. These included:
+Several measurement routines were implemented and exposed through the graphical user interface, including:
 
 - fusion experiments
 - sedimentation measurements
@@ -108,7 +101,7 @@ Several measurement routines were implemented and made selectable through the gr
 
 Each routine could be repeated a user-defined number of times for the same droplet before discarding it and repeating the process with a new droplet set.
 
-Similar workflow patterns were implemented across fusion, sedimentation, and rheology routines, allowing the same software framework to support multiple experimental protocols.
+A shared workflow framework supported all three measurement types, allowing the same software architecture to be reused across multiple experimental protocols.
 
 The overall automation workflow for droplet capture and measurements is shown below.
 
@@ -152,19 +145,19 @@ The timing plots below illustrate the execution time of automated measurements f
 
 ### Logging and Traceability
 
-The software allowed users to define where experimental data should be stored during acquisition. In addition to measurement results, relevant system and experiment information was recorded in log files to support traceability and reproducibility.
+The platform allowed users to define where experimental data should be stored during acquisition. In addition to measurement results, relevant system and experiment information was recorded in log files to support traceability and reproducibility.
 
 ---
 
 ### Safety Constraints
 
-To prevent device collisions, a safe operating region was implemented within the control software. This ensured that automated movements remained within safe boundaries and reduced the risk of hardware damage caused by incorrect positioning.
+To reduce the risk of hardware damage, a safe operating region was implemented within the control software. This ensured that automated movements remained within safe boundaries and prevented invalid positioning commands.
 
 ---
 
 ### Microfluidics Integration
 
-For reliable measurements, water must remain between the optical tweezers objectives and the sample. This process was automated by integrating a **syringe pump**, which managed water removal and eliminated the need for manual intervention.
+For reliable measurements, water had to remain between the optical tweezers objectives and the sample. This process was automated by integrating a **syringe pump**, eliminating the need for manual intervention during operation.
 
 ---
 
@@ -172,7 +165,7 @@ For reliable measurements, water must remain between the optical tweezers object
 
 The software automatically connected to the devices that compose the optical tweezers setup, including motors, cameras, syringe pumps, and other hardware components.
 
-Communication and control were implemented using the available **device APIs and hardware libraries**, allowing the system to coordinate all components programmatically from the main software interface.
+Communication and control were implemented through the available **device APIs and hardware libraries**, allowing the system to coordinate all components programmatically from the main software interface.
 
 A **socket-based server architecture** was used to initialize, connect, and manage the devices within a unified control environment.
 
@@ -202,5 +195,3 @@ A **socket-based server architecture** was used to initialize, connect, and mana
 - Implemented automated droplet capture and measurement workflows
 - Integrated multiple hardware devices into a unified control system
 - Implemented logging, safety constraints, and microfluidics support
-
-This project combined computer vision, hardware API integration, modular software design, and automated experimental workflows into a unified research software platform.
