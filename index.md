@@ -55,8 +55,7 @@ Custom software platform for multiphoton fluorescence lifetime imaging microscop
 I have a background in biomedical engineering and scientific software, with experience in microscopy, automation, and computational research workflows. My work combines software engineering with experimental and modeling environments.
 
 ---
-
-## Contact
+<h2 id="contact">Contact</h2>
 
 email: hugo.sebastiao.work@gmail.com
 
