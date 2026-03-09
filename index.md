@@ -31,7 +31,7 @@ Python-based automation platform for protein droplet experiments integrating com
 - modular workflow design
 - integrated hardware control
 
-[Read more](optical-tweezers.html)
+[Read more](mds/optical_tweezers.md)
 
 ### Multiphoton FLIM Microscope Control
 Custom software platform for multiphoton fluorescence lifetime imaging microscopy, integrating device control, synchronized scanning, and real-time fluorescence lifetime analysis.
@@ -42,7 +42,7 @@ Custom software platform for multiphoton fluorescence lifetime imaging microscop
 - TCSPC data acquisition
 - real-time fluorescence lifetime visualization
 
-[Read more](mp-flim.html)
+[Read more](mds/FLIM.md)
 
 ---
 
