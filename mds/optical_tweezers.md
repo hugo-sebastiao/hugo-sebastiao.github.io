@@ -14,7 +14,7 @@ A modular automation platform integrating droplet detection, hardware control, a
 Automated nearly the full experimental workflow and achieved approximately **20 data points per hour** across fusion, sedimentation, and rheology measurements.
 
 **Stack**  
-Python, computer vision, YOLO-NAS, hardware APIs, socket communication, GUI development, automation workflows.
+Python, computer vision, YOLO-NAS, hardware APIs, socket communication, GUI development, automation workflows
 
 ### Overview
 
@@ -44,7 +44,7 @@ A practical automation system needed to:
 
 ### Solution
 
-I designed and implemented the complete automation software platform for the optical tweezers setup, integrating computer vision, device control, experiment orchestration, automated measurement routines, and graphical user interaction into a single system.
+I designed and implemented the automation software platform for the optical tweezers setup, integrating computer vision, device control, experiment orchestration, automated measurement routines, and graphical user interaction into a single system.
 
 To improve maintainability and extensibility, the workflows were organized into modular software packages, making the platform easier to adapt to new hardware, measurement types, and experimental procedures.
 
@@ -87,7 +87,7 @@ I implemented an automated routine to capture droplets detected in the visual fi
 
 This process continues until all required laser paths contain droplets. The software also ensures that only droplets above a **user-defined minimum radius** are selected.
 
-This routine formed the core control loop of the platform, linking computer vision output directly to automated motor positioning and trap loading.
+This routine formed a core control loop of the platform, linking computer vision output directly to automated motor positioning and trap loading.
 
 ---
 
