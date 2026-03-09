@@ -4,21 +4,22 @@
 **Focus:** Computer vision, hardware integration, workflow automation  
 **Environment:** Optical tweezers experimental platform
 
-<div class="project-summary">
+**Problem**
 
-**Problem**  
 Optical tweezers experiments required continuous manual control and manual data extraction, reducing throughput and requiring constant researcher supervision.
 
-**Built**  
+**Built** 
+
 A modular automation platform integrating droplet detection, hardware control, automated droplet capture, experiment workflows, data generation, and graphical user interaction.
 
 **Outcome**  
+
 Automated nearly the full workflow and achieved approximately **20 data points per hour** across fusion, sedimentation, and rheology measurements.
 
 **Stack**  
+
 Python, computer vision, YOLO-NAS, hardware APIs, socket communication, GUI development, automation workflows.
 
-</div>
 
 ### Overview
 
