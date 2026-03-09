@@ -6,7 +6,10 @@ Automation, hardware integration, and data analysis for research workflows.
 
 I develop software for scientific instrumentation, automation, and data analysis. My work focuses on integrating hardware devices, building modular control systems, and creating real-time processing pipelines for experimental workflows.
 
-[View Projects](#projects) | [Contact](#contact)
+<p class="top-links">
+  <a href="#projects">Projects</a>
+  <a href="#contact">Contact</a>
+</p>
 
 ---
 
