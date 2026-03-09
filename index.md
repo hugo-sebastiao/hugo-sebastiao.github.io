@@ -52,9 +52,12 @@ An automated routine was implemented to capture droplets detected in the visual 
 
 This process continues until all required laser paths contain droplets. The system also ensures that only droplets above a **user-defined minimum radius** are selected.
 
-![Short alt text](assets/img/droplet_detection.png)
 
-*Figure 1. AI model to detect and extract dropelt positions*
+<p align="center">
+  <img src="assets/img/droplet_detection.png" alt="Droplet detection" width="700">
+</p>
+
+<p align="center"><em>Figur e1. AI model to detect and extract dropelt positions</em></p>
 
 ---
 
@@ -67,17 +70,25 @@ Several measurement routines were implemented and made selectable through the gr
 
 Each routine could be repeated a user-defined number of times for the same droplet before discarding it and repeating the process with a new droplet set.
 
-![Short alt text](assets/img/general_diagram_ot.png)
 
-*Figure 2. General Workflow Diagram*
+<p align="center">
+  <img src="assets/img/general_diagram_ot.png" alt="Droplet detection" width="700">
+</p>
 
-![Short alt text](assets/img/example_sedimentation1.png)
+<p align="center"><em>Figure2. General Workflow Diagram</em></p>
 
-*Figure 3. Example of sedimentation workflow*
+<p align="center">
+  <img src="assets/img/sedimentation_workflow.png" alt="Droplet detection" width="700">
+</p>
 
-![Short alt text](assets/img/low_high_sed.png)
+<p align="center"><em>Figure3. Example of sedimentation workflow </em></p>
 
-*Figure 4. Example of data obtained from the workflow*
+<p align="center">
+  <img src="assets/img/high_low_sed.png" alt="Droplet detection" width="700">
+</p>
+
+<p align="center"><em>Figure4.  Example of data obtained from the workflow </em></p>
+
 
 ---
 
