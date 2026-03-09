@@ -2,7 +2,7 @@
 
 ## Scientific Software Engineer
 
-Automation, hardware integration, and data analysis for research workflows, with experience in microscopy and experimental instrumentation.
+Scientific software for experimental instrumentation, automation, and data analysis, with experience in microscopy systems.
 
 I develop software for scientific instrumentation and automated experimental workflows, focusing on hardware integration, real-time data processing, and scientific automation systems.
 
