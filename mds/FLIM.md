@@ -4,6 +4,22 @@
 **Focus:** Device control, synchronized acquisition, real-time data analysis  
 **Environment:** Multiphoton fluorescence lifetime imaging microscopy (MP-FLIM)
 
+<div class="project-summary">
+
+**Problem**  
+Custom multiphoton FLIM systems require tightly synchronized control of multiple devices, while commercial tools often lack flexibility for custom workflows and real-time analysis.
+
+**Built**  
+A modular software platform for device control, synchronized scanning, photon acquisition, real-time fluorescence lifetime analysis, and live visualization.
+
+**Outcome**  
+Enabled automated microscope control, synchronized acquisition, and real-time lifetime imaging for laboratory experiments with multi-colour labelled samples.
+
+**Stack**  
+Python, hardware APIs, TCSPC, real-time processing, GUI development, scientific instrumentation control.
+
+</div>
+
 ### Overview
 
 At the **International Iberian Nanotechnology Laboratory (INL)**, I developed the complete software control and analysis platform for a nonlinear multiphoton fluorescence lifetime imaging microscope (MP-FLIM).
