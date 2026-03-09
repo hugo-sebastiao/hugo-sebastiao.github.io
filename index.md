@@ -10,7 +10,7 @@ Recent work includes:
 - automating optical tweezers experiments with computer vision, hardware control, and workflow orchestration
 - building control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis
 
-**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems. Need help with instrument software or lab automation? <a href="#contact">Contact</a>** Me.
+**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems. If you need help with instrument software or lab automation, <a href="#contact">get in touch</a>**.
 
 <p class="top-links">
   <a href="#projects">Projects</a>
@@ -20,6 +20,8 @@ Recent work includes:
   <a href="#who-i-work-with">Who I Work With</a>
   <span> | </span>
   <a href="#about">About Me</a>
+  <span> | </span>
+  <a href="#contact">Contact</a>
 
 </p>
 
@@ -30,6 +32,11 @@ Recent work includes:
 I work at the intersection of software engineering and experimental research. I help when a project needs more than generic coding — for example, when software must coordinate hardware, support real-time acquisition, remain maintainable, and be usable by scientists in day-to-day operation.
 
 I am particularly useful for projects where:
+
+- Software that only works when the original developer is there
+- Instruments that require too many manual steps
+- Fragile integrations between cameras, stages, detectors, and analysis code
+- Research prototypes that are hard to extend or trust
 - A prototype needs to become reliable software
 - Multiple instruments or devices must work together
 - A manual workflow needs to be automated
