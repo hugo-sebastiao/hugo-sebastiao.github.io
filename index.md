@@ -24,7 +24,7 @@ I develop software for scientific instrumentation and automated experimental wor
 
 ---
 
-## Projects
+<h2 id="projects">Projects</h2>
 
 ### Optical Tweezers Experiment Automation
 
