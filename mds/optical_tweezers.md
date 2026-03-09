@@ -10,7 +10,7 @@ Optical tweezers use focused laser beams to manipulate microscopic particles and
 
 These experiments are often performed manually, requiring researchers to continuously control the instrument and extract data during each run.
 
-I developed software to automate protein droplet experiments, allowing measurements to run autonomously based on predefined user parameters.
+At the university of Dresden, I developed software to automate protein droplet experiments, allowing measurements to run autonomously based on predefined user parameters.
 
 ### Problem
 Optical tweezers experiments required continuous manual control and data extraction, limiting experimental throughput and requiring researchers to remain at the instrument for long periods.
