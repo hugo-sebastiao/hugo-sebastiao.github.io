@@ -48,24 +48,36 @@ An automation workflow was built around this model to:
 ---
 
 ### Automated Droplet Capture
-An automated routine was implemented to capture droplets detected in the visual field. The algorithm determines whether a droplet is already trapped in the laser beam. If not, the system moves the motorized stage to the droplet position and captures it with the optical trap.
+An automated routine was implemented to capture droplets detected in the visual field (Fig. 1). The algorithm determines whether a droplet is already trapped in the laser beam. If not, the system moves the motorized stage to the droplet position and captures it with the optical trap.
 
 This process continues until all required laser paths contain droplets. The system also ensures that only droplets above a **user-defined minimum radius** are selected.
 
-![Short alt text](assets/img/droplet_detection.jpg)
+![Short alt text](assets/img/droplet_detection.png)
 
 *Figure 1. AI model to detect and extract dropelt positions*
 
 ---
 
 ### Measurement Workflows
-Several measurement routines were implemented and made selectable through the graphical user interface. These included:
+Several measurement routines were implemented and made selectable through the graphical user interface (Fig. 2). These included:
 
 - fusion experiments  
-- sedimentation measurements  
+- sedimentation measurements (Fig. 3), (Fig. 4)
 - rheology measurements  
 
 Each routine could be repeated a user-defined number of times for the same droplet before discarding it and repeating the process with a new droplet set.
+
+![Short alt text](assets/img/general_diagram_ot.png)
+
+*Figure 2. General Workflow Diagram*
+
+![Short alt text](assets/img/example_sedimentation1.png)
+
+*Figure 3. Example of sedimentation workflow*
+
+![Short alt text](assets/img/low_high_sed.png)
+
+*Figure 4. Example of data obtained from the workflow*
 
 ---
 
