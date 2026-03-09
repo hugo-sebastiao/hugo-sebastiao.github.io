@@ -56,7 +56,7 @@ I have a background in biomedical engineering and scientific software, with expe
 
 ---
 
-<h2 id="contact">Contact</h2>
+## Contact
 
 email: hugo.sebastiao.work@gmail.com
 
