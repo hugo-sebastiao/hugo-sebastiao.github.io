@@ -6,22 +6,20 @@ I help research labs and deep-tech teams build reliable software for custom inst
 
 My work focuses on instrument control, device integration, computer vision, data acquisition, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices must work together reliably.
 
-Recent work includes:
-- automating optical tweezers experiments with computer vision, hardware control, and workflow orchestration
-- building control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis
+Recent work includes optical tweezers automation with computer vision, hardware control, and workflow orchestration, as well as control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis.
 
-**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems. If you need help with instrument software or lab automation, <a href="#contact">get in touch</a>.**
+**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems.** If you need help with instrument software or lab automation, <a href="#contact">get in touch</a>.
 
 <p class="top-links">
   <a href="#projects">Projects</a>
   <span> | </span>
   <a href="#services">Services</a>
   <span> | </span>
-  <a href="#who-i-work-with">Who I Work With</a>
-  <span> | </span>
   <a href="#about">About Me</a>
   <span> | </span>
   <a href="#contact">Contact</a>
+  <span> | </span>
+  <a href="#who-i-work-with">Who I Work With</a>
 
 </p>
 
@@ -47,34 +45,24 @@ I am particularly useful when teams are dealing with:
 
 I can help with:
 
-- Building or improving control software for custom laboratory instruments
-- Integrating cameras, stages, detectors, lasers, and third-party device APIs
-- Automating experimental workflows to reduce manual effort and improve throughput
-- Developing real-time data acquisition, monitoring, and analysis pipelines
-- Applying computer vision to microscopy and lab automation tasks
-- Creating scientific Python applications and custom GUIs for internal research use
-- Refactoring research code into maintainable, testable software
-- Troubleshooting fragile instrument software and improving reliability
+- building or improving control software for custom laboratory instruments
+- integrating cameras, stages, detectors, lasers, and third-party device APIs
+- automating experimental workflows to reduce manual effort and improve throughput
+- developing real-time data acquisition, monitoring, and analysis pipelines
+- applying computer vision to microscopy and lab automation tasks
+- creating scientific Python applications and custom GUIs for internal research use
+- refactoring research code into maintainable, testable software
+- troubleshooting fragile instrument software and improving reliability
 
 Typical projects include:
-- connecting multiple hardware components into a single software workflow
-- replacing manual experimental steps with automation
-- stabilizing software written during early research or prototyping stages
-- adding real-time visualization, logging, and data handling to existing systems
-- turning one-off code into reusable internal tools for labs and R&D teams
 
----
+- connecting multiple hardware components into a single software workflow
+- automating manual experimental procedures
+- stabilizing and extending research software developed during prototyping
 
 <h2 id="who-i-work-with">Who I Work With</h2>
 
-I typically work with:
-
-- Research labs
-- Core facilities
-- Deep-tech startups
-- Teams building custom scientific instruments
-- R&D groups developing automated experimental platforms
-- Scientists and engineers who need more reliable instrument software
+I typically work with research and R&D teams building or operating custom scientific instruments, including research labs, core facilities, deep-tech startups, and automated experimental platforms.
 
 ---
 
