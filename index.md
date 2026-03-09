@@ -26,7 +26,8 @@ I develop software for scientific instrumentation and automated experimental wor
 
 ## Projects
 
-### Optical Tweezers Automation
+### Optical Tweezers Experiment Automation
+
 Python-based automation platform for optical tweezers experiments integrating computer vision, hardware APIs, and automated measurement workflows.
 
 **Highlights**
@@ -37,7 +38,7 @@ Python-based automation platform for optical tweezers experiments integrating co
 
 [Read more →](mds/optical_tweezers.html)
 
-### Multiphoton FLIM Microscope Control
+### Multiphoton FLIM Microscope Control Software
 Software platform for multiphoton fluorescence lifetime imaging microscopy integrating device control, synchronized scanning, and real-time lifetime analysis.
 
 **Highlights**
