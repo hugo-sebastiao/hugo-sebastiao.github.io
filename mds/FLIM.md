@@ -66,7 +66,7 @@ These components are synchronized to perform controlled scanning and real-time d
 **Architecture diagram**
 
 <p align="center">
-<img src="assets/img/thesis_diagram.png" width="700">
+<img src="../assets/img/thesis_diagram.png" width="700">
 </p>
 <p align="center"><em>Figure 7. Software diagram </em></p>
 
