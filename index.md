@@ -1,18 +1,16 @@
 # Hugo Sebastião
 
-## Scientific Software for Custom Instruments, Lab Automation, and Research Workflows
+## Scientific Software for Custom Instruments and Lab Automation
 
-I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated scientific workflows.
+I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
-My work focuses on instrument control, device integration, computer vision, data acquisition, and real-time analysis — especially in environments where experiments are still too manual, software is difficult to maintain, or multiple devices need to work together reliably.
-
-I work on systems such as custom microscopes, instrument prototypes, experimental platforms, and research pipelines where robust software is essential for day-to-day operation.
+My work focuses on instrument control, device integration, computer vision, data acquisition, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
 
 Recent work includes:
 - automating optical tweezers experiments with computer vision, hardware control, and workflow orchestration
 - building control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis
 
-**Available for freelance projects in scientific software, instrument automation, custom acquisition systems, and research software refactoring.**
+**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems. Need help with instrument software or lab automation? Get in touch. <p class="top-links"> <a href="#contact">Contact</a> </p>**
 
 <p class="top-links">
   <a href="#projects">Projects</a>
@@ -22,9 +20,20 @@ Recent work includes:
   <a href="#who-i-work-with">Who I Work With</a>
   <span> | </span>
   <a href="#about">About Me</a>
-  <span> | </span>
-  <a href="#contact">Contact</a>
+
 </p>
+
+---
+
+## Why teams hire me
+
+I work at the intersection of software engineering and experimental research. I help when a project needs more than generic coding — for example, when software must coordinate hardware, support real-time acquisition, remain maintainable, and be usable by scientists in day-to-day operation.
+
+I am particularly useful for projects where:
+- A prototype needs to become reliable software
+- Multiple instruments or devices must work together
+- A manual workflow needs to be automated
+- Research code has grown difficult to maintain
 
 ---
 
@@ -80,7 +89,7 @@ The software unified droplet detection, hardware coordination, experiment execut
 - Computer vision-guided experiment logic
 
 **Outcome**  
-Reduced manual interaction during experiments and enabled more reproducible, automation-driven optical tweezers measurements.
+Reduced manual intervention and improved reproducibility by turning optical tweezers measurements into a more automation-driven workflow.
 
 Developed at Technical University of Dresden.
 
@@ -103,62 +112,7 @@ The system was built to coordinate multiple hardware and acquisition components 
 - Scientific GUI development
 
 **Outcome**  
-Provided a usable control and acquisition platform for a custom microscopy system, supporting synchronized measurement and live analysis in daily instrument operation.
-
-Developed at INL – International Iberian Nanotechnology Laboratory.  
-Base software remains in use.
-
-[Read more →](mds/FLIM.html)
-
----
-
-## Technical Stack
-
-**Core stack:** Python • NumPy/SciPy • OpenCV • PyQt/PySide • hardware APIs • serial/socket communication • scientific GUIs • real-time analysis • automation workflows
-
-Additional experience with:
-- C/C++
-- MATLAB
-- JavaScript
-- signal and image processing
-- synchronized acquisition
-- multiprocessing
-- modular software architecture
-- logging and debugging
-- testing and reproducible scientific software development
-
----
-
-<h2 id="about">About Me</h2>
-
-I have a background in biomedical engineering and scientific software, with experience at the interface of software engineering, experimental instrumentation, and scientific data analysis.
-
-My work is centered on systems where software has to interact directly with hardware, coordinate measurements, process scientific data, and remain usable in real research environments. I am particularly interested in projects involving custom instruments, microscopy, automation, and experimental workflows that have grown complex or difficult to maintain.
-
-I understand both the technical and practical side of research software: integrating devices, handling real-time acquisition constraints, building maintainable codebases, and supporting tools that scientists can rely on in daily work.
-
-[Read more →](mds/AboutMe.html)
-
----
-
-<h2 id="contact">Contact</h2>
-
-If you are building or upgrading a scientific instrument, automating an experimental workflow, or dealing with fragile research software, send me a short description of your setup and the problem you need solved.
-
-Good starting points include:
-- integrating a new device into an existing system
-- automating a repetitive measurement workflow
-- improving stability and maintainability of research software
-- building a custom acquisition, control, or analysis tool
-
-LinkedIn: [linkedin.com/in/hugo-mvs-sebastiao](https://www.linkedin.com/in/hugo-mvs-sebastiao)
-
-Email: [hugo.sebastiao.work@gmail.com](mailto:hugo.sebastiao.work@gmail.com)
-**Highlights**
-- Device API integration
-- Synchronized scanning
-- TCSPC data acquisition
-- Real-time fluorescence lifetime visualization
+Delivered a control and acquisition platform that supported synchronized measurement and live analysis in day-to-day microscope operation.
 
 Developed at INL – International Iberian Nanotechnology Laboratory.  
 Base software remains in use.
@@ -177,7 +131,11 @@ Additional experience with C/C++, MATLAB, JavaScript, signal and image processin
 
 <h2 id="about">About Me</h2>
 
-I have a background in biomedical engineering and scientific software, with experience across microscopy systems, automation, and computational research workflows. My work sits at the interface of software engineering, experimental instrumentation, and scientific data analysis.
+I have a background in biomedical engineering and scientific software, with experience at the interface of software engineering, experimental instrumentation, and scientific data analysis.
+
+My work is centered on systems where software has to interact directly with hardware, coordinate measurements, process scientific data, and remain usable in real research environments. I am particularly interested in projects involving custom instruments, microscopy, automation, and experimental workflows that have grown complex or difficult to maintain.
+
+I understand both the technical and practical side of research software: integrating devices, handling real-time acquisition constraints, building maintainable codebases, and supporting tools that scientists can rely on in daily work.
 
 [Read more →](mds/AboutMe.html)
 
@@ -185,7 +143,15 @@ I have a background in biomedical engineering and scientific software, with expe
 
 <h2 id="contact">Contact</h2>
 
-If you are building or upgrading a scientific instrument, automating an experimental workflow, or need more reliable research software, send me a short description of your setup, workflow bottleneck, or integration problem.
+If you need help with instrument control, device integration, workflow automation, or research software that has become difficult to maintain, send me a short description of your setup and the problem.
+
+I take on short consulting engagements, targeted software improvements, and end-to-end development of custom research tools.
+
+Typical starting points:
+- integrating a new hardware component into an existing system
+- automating a repetitive experimental workflow
+- improving the reliability of research software
+- building a custom control, acquisition, or analysis tool
 
 LinkedIn: [linkedin.com/in/hugo-mvs-sebastiao](https://www.linkedin.com/in/hugo-mvs-sebastiao)
 
