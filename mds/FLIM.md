@@ -3,7 +3,7 @@ layout: default
 title: FLIM
 --- 
 
-## Multiphoton FLIM Microscope Control Softwarea
+## Multiphoton FLIM Microscope Control Software
 
 **Role:** Scientific Software Engineer / Software Developer  
 **Focus:** Device control, synchronized acquisition, real-time fluorescence lifetime analysis  
