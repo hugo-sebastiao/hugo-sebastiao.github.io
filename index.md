@@ -132,22 +132,22 @@ Base software remains in use.
 
 <h3 id="rehab-robotics">Autonomous Rehabilitation Robotics</h3>
 
-Developing a research pipeline for autonomous lower-limb rehabilitation based on AI-driven surrogate models of musculoskeletal dynamics and robotics-integrated control.
+Developing software that automatically generates training data for surrogate models intended for future control of an autonomous lower-limb rehabilitation robot.
 
-The project combines biomechanical modeling, predictive software workflows, and robotic control logic to support future rehabilitation systems for passive mobilization scenarios.
+The project combines musculoskeletal simulation, 6-DOF wrench estimation, and automated optimizer sweeps to produce structured training data for models that can later support real-time, patient-specific robot control.
 
 **Highlights**
 
 - musculoskeletal modeling
-- surrogate model development
-- biomechanical simulation workflows
-- robotics-integrated control logic
-- model-based prediction pipeline
-- scientific software for rehabilitation systems
+- surrogate-model training data generation
+- automated simulation sweeps
+- 6-DOF attachment wrench estimation
+- rehabilitation motion simulation
+- scientific software for rehabilitation robotics
 
 **Outcome**  
 
-The long-term objective is a software-guided robotic system capable of supporting autonomous lower-limb mobilization through model-based control.
+Created an automated simulation data-generation workflow for surrogate-model training, doubling throughput from approximately **10 to 20 simulation points per hour** and removing the need for continuous manual supervision.
 
 Developed in a research collaboration between Clausthal University of Technology and HAWK Göttingen.
 
