@@ -148,6 +148,12 @@ The project combines musculoskeletal simulation, 6-DOF wrench estimation, and au
 
 Created an automated simulation data-generation workflow for surrogate-model training, doubling throughput from approximately **10 to 20 simulation points per hour** and removing the need for continuous manual supervision.
 
+<p align="center">
+  <img src="assets/img/control_loop_robot.png" alt="FLIM data example">
+</p>
+<p align="center"><em>Figure 3..</em></p>
+
+
 Developed in a research collaboration between Clausthal University of Technology and HAWK Göttingen.
 
 [Read more →](mds/musculoskeletal.html)
