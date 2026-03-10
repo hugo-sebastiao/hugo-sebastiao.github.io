@@ -1,3 +1,9 @@
+---
+layout: default
+title: Portfolio
+---
+
+
 # Hugo Sebastião
 
 ## Scientific Software for Custom Instruments and Lab Automation
