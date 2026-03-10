@@ -10,6 +10,8 @@ title: Portfolio
 
 I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
+I bring both software engineering and domain fluency, allowing me to work effectively with biologists, clinicians, and research teams while building systems that match real experimental workflows.
+
 My work covers instrument control, device integration, computer vision, data acquisition, automated workflows, AI-driven analysis, and real-time analysis. Especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
 
 I have built software for optical tweezers, multiphoton FLIM microscopy, physiological sensing, and rehabilitation robotics, including systems used in real laboratory environments.
