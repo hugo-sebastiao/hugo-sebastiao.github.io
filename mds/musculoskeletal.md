@@ -3,11 +3,6 @@ layout: default
 title: Musculoskeletal
 ---
 
----
-layout: default
-title: Musculoskeletal
----
-
 # Autonomous Rehabilitation Robotics
 
 **Role:** Scientific Software Engineer / Research Software Developer  
