@@ -3,7 +3,7 @@ layout: default
 title: Optical Tweezers Experiment Automation
 --- 
 
-## Optical Tweezers Experiment Automation
+## Optical Tweezers Experiment Automationa
 
 **Role:** Software Developer / Automation Engineer  
 **Focus:** Computer vision, hardware integration, workflow automation  
