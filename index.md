@@ -2,21 +2,22 @@
 layout: default
 title: Portfolio
 ---
-
+---
+layout: default
+title: Portfolio
+---
 
 # Hugo Sebastião
 
 ## Scientific Software for Custom Instruments and Lab Automation
 
-I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
+I help research labs and technical teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
 I bring both software engineering and domain fluency, allowing me to work effectively with biologists, clinicians, and research teams while building systems that match real experimental workflows.
 
-My work covers instrument control, device integration, computer vision, data acquisition, automated workflows, AI-driven analysis, and real-time analysis. Especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
+My work covers instrument control, device integration, computer vision, data acquisition, automated workflows, and real-time analysis, especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
 
-I have built software for optical tweezers, multiphoton FLIM microscopy, physiological sensing, and rehabilitation robotics, including systems used in real laboratory environments.
-
-My experience includes software developed for optical tweezers, FLIM microscopy, physiological sensing, and rehabilitation robotics in research environments at TU Dresden, INL, and Clausthal University/HAWK Göttingen.
+I have built software for optical tweezers, multiphoton FLIM microscopy, physiological sensing, and rehabilitation robotics in research environments at TU Dresden, INL, and Clausthal University/HAWK Göttingen.
 
 **Available for freelance projects in scientific software, instrument automation, and custom acquisition systems.**
 
@@ -25,8 +26,6 @@ My experience includes software developed for optical tweezers, FLIM microscopy,
 ---
 
 ## Why teams hire me
-
-**Do you have an experimental workflow that still depends on too many manual steps? I help research teams turn fragile, time-consuming procedures into reliable software-driven workflows.**
 
 I work at the intersection of software engineering and experimental research. I help when instrument software needs to do more than function as a prototype: it needs to coordinate hardware reliably, support acquisition and analysis, remain maintainable, and be usable by scientists in day-to-day work.
 
@@ -73,9 +72,9 @@ I typically work with research and R&D teams building or operating custom scient
 
 <h3 id="optical-tweezers">Optical Tweezers Experiment Automation</h3>
 
-Developed a Python-based automation platform for optical tweezers experiments, integrating computer vision, hardware control, and automated measurement workflows into a modular system capable of running experiments with minimal user intervention.
+Developed a Python-based automation platform for optical tweezers experiments, integrating computer vision, hardware control, and automated measurement workflows into a modular system for experiments with minimal user intervention.
 
-The software unified droplet detection, hardware coordination, experiment execution, and data generation in a single workflow-oriented platform designed for real experimental use.
+The software unified droplet detection, hardware coordination, experiment execution, and data generation in a single platform designed for real experimental use.
 
 **Highlights**
 
@@ -127,8 +126,8 @@ Enabled synchronized measurement and live lifetime analysis in a single software
 </p>
 <p align="center"><em>Figure 2. Example output generated during automated FLIM acquisition and analysis.</em></p>
 
-Developed for real laboratory use at INL – International Iberian Nanotechnology Laboratory.  
-Base software remains in use.
+Developed for laboratory use at INL – International Iberian Nanotechnology Laboratory.  
+The software remains in use.
 
 [Read more →](mds/FLIM.html)
 
@@ -136,7 +135,7 @@ Base software remains in use.
 
 <h3 id="rehab-robotics">Autonomous Rehabilitation Robotics</h3>
 
-Developing software that automatically generates training data for surrogate models intended for future control of an autonomous lower-limb rehabilitation robot.
+Developing software that automatically generates training data for surrogate models intended for future control of a lower-limb rehabilitation robot.
 
 The project combines musculoskeletal simulation, 6-DOF wrench estimation, and automated optimizer sweeps to produce structured training data for models that can later support real-time, patient-specific robot control.
 
@@ -159,7 +158,7 @@ Developed in a research collaboration between Clausthal University of Technology
 
 ---
 
-<h2 id="addprojects">Additional projects</h2>
+<h2 id="addprojects">Additional Projects</h2>
 
 ### Custom Pulse Measurement System
 
@@ -202,8 +201,6 @@ I am particularly interested in projects involving:
 - automated experiments
 - device coordination and acquisition
 - research software that has grown complex or difficult to maintain
-
-I bring both software engineering and research context to these projects: integrating hardware, handling real-time constraints, building maintainable systems, and creating tools scientists can rely on.
 
 [Read more →](mds/AboutMe.html)
 
