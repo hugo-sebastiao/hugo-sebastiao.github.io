@@ -142,13 +142,19 @@ Additional experience with C/C++, MATLAB, JavaScript, signal and image processin
 
 <h2 id="about">About Me</h2>
 
-I have a background in biomedical engineering and scientific software, with experience at the interface of software engineering, experimental instrumentation, and scientific data analysis.
+I have a background in biomedical engineering and scientific software, with experience building software at the interface of instrumentation, automation, and scientific data analysis.
 
-I have worked on software for microscopy, optical tweezers, and hardware-integrated experimental systems in research environments where reliability and usability matter in day-to-day operation.
+My work has included software for microscopy, optical tweezers, and hardware-integrated experimental systems where reliability, usability, and maintainability matter in daily operation.
 
-My work centers on systems where software has to interact directly with hardware, coordinate measurements, process scientific data, and remain usable in real research environments. I am particularly interested in projects involving custom instruments, microscopy, automation, and experimental workflows that have grown complex or difficult to maintain.
+I am particularly interested in projects involving:
 
-I understand both the technical and practical side of research software: integrating devices, handling real-time acquisition constraints, building maintainable codebases, and supporting tools that scientists can rely on in daily work.
+- custom instruments
+- microscopy and imaging systems
+- automated experiments
+- device coordination and acquisition
+- research software that has grown complex or difficult to maintain
+
+I bring both software engineering and research context to these projects: integrating hardware, handling real-time constraints, building maintainable systems, and creating tools scientists can rely on.
 
 [Read more →](mds/AboutMe.html)
 
