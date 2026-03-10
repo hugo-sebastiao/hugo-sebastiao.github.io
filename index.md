@@ -63,6 +63,8 @@ Typical projects include:
 - automating manual experimental procedures
 - stabilizing and extending research software developed during prototyping
 
+---
+
 <h2 id="who-i-work-with">Who I Work With</h2>
 
 I typically work with research and R&D teams building or operating custom scientific instruments, including research labs, core facilities, deep-tech startups, and automated experimental platforms.
