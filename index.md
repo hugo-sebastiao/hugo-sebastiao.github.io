@@ -179,19 +179,6 @@ The project focused on extracting heart rate from the red-light sensor signal al
 
 Built a working end-to-end prototype that strengthened my experience in instrumentation, signal processing, and real-time physiological data analysis.
 
-### Research Automation and Analysis Utilities
-
-Built smaller internal tools to automate repetitive research workflows, reduce manual processing, and improve reproducibility across experimental and analysis tasks.
-
-These projects included scripting, structured data handling, batch processing, and workflow-focused scientific software for day-to-day research use.
-
-### Scientific Data Processing Workflows
-
-Developed custom Python workflows for processing scientific data, including signal analysis, image-based workflows, and automated generation of structured outputs for downstream use.
-
-These projects supported experimental work by reducing manual handling and making analysis steps more reliable and repeatable.
-
-
 ## Technical Stack
 
 **Core stack:** Python • NumPy/SciPy • OpenCV • PyQt/PySide • hardware APIs • serial/socket communication • scientific GUIs • real-time analysis • automation workflows
