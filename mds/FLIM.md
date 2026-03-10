@@ -172,6 +172,15 @@ The result was a single software environment that researchers could use to contr
 
 ---
 
+## Key Contributions (summary)
+
+- designed and implemented the software platform for control and analysis of a multiphoton FLIM microscope
+- integrated multiple microscope devices through **manufacturer APIs and device libraries**
+- developed **real-time fluorescence lifetime analysis workflows**
+- implemented synchronized **scanning and photon acquisition**
+- structured the software into a **modular architecture** for maintainability and extension
+- developed a **graphical user interface** for microscope control and live visualization
+
 ## Engineering Challenges
 
 Key challenges included coordinating multiple hardware interfaces, ensuring reliable synchronization across acquisition components, and providing real-time feedback without interrupting the imaging workflow. I designed the platform to keep these responsibilities modular, making the system easier to maintain, extend, and adapt to future experimental requirements.
