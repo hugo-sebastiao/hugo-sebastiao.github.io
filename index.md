@@ -4,7 +4,7 @@
 
 I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
-My work focuses on instrument control, device integration, computer vision, data acquisition, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices must work together reliably.
+My work focuses on instrument control, device integration, computer vision, data acquisition, automated routines and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices must work together reliably.
 
 Recent work includes optical tweezers automation with computer vision, hardware control, and workflow orchestration, as well as control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis.
 
@@ -27,7 +27,9 @@ Recent work includes optical tweezers automation with computer vision, hardware 
 
 ## Why teams hire me
 
-I work at the intersection of software engineering and experimental research. I help when instrument software needs to do more than just function in a prototype: it needs to coordinate hardware reliably, support acquisition and analysis, remain maintainable, and be usable by scientists in day-to-day work.
+**Do you have an extensive pipeline or a device prototype that needs to be guided manualy? Does it consumes alot of time? I can help you transforming it into a one button push saving you hundreds of hours.**
+
+I work at the intersection of software engineering and experimental research. I help when instrument software needs to do more than just function in a prototype: it needs to coordinate hardware reliably, support acquisition and analysis, remain maintainable, and be usable by scientists in day-to-day work. I also help saving time by transforming tyring working pipelines into automated routines.
 
 I am particularly useful when teams are dealing with:
 
