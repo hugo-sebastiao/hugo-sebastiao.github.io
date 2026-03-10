@@ -14,6 +14,8 @@ My work covers instrument control, device integration, computer vision, data acq
 
 I have built software for optical tweezers, multiphoton FLIM microscopy, physiological sensing, and rehabilitation robotics, including systems used in real laboratory environments.
 
+My experience includes software developed for optical tweezers, FLIM microscopy, physiological sensing, and rehabilitation robotics in research environments at TU Dresden, INL, and Clausthal University/HAWK Göttingen.
+
 **Available for freelance projects in scientific software, instrument automation, and custom acquisition systems.**
 
 **Need help? <a href="#contact">Get in touch</a>.**
