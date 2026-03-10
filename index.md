@@ -17,19 +17,6 @@ I have built software for optical tweezers, multiphoton FLIM microscopy, physiol
 **Available for freelance projects in scientific software, instrument automation, and custom acquisition systems.**
 
 **Need help? <a href="#contact">Get in touch</a>.**
-
-<p class="top-links">
-  <a href="#projects">Projects</a>
-  <span> | </span>
-  <a href="#services">Services</a>
-  <span> | </span>
-  <a href="#who-i-work-with">Who I Work With</a>
-  <span> | </span>
-  <a href="#about">About</a>
-  <span> | </span>
-  <a href="#contact">Contact</a>
-</p>
-
 ---
 
 ## Why teams hire me
