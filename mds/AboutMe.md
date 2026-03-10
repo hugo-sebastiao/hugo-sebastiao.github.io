@@ -4,7 +4,7 @@ title: About
 ---
 
 # About
-
+a
 I build scientific software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
 My background is in biomedical engineering and scientific software, and much of my work has been at the interface between experimental research and software engineering. My training combined biomedical instrumentation and data analysis, giving me a strong understanding of both scientific devices and the signals and data they produce.
