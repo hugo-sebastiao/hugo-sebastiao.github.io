@@ -122,6 +122,11 @@ The long-term goal of the project is an autonomous rehabilitation robot that use
 
 The simulation and automated data-generation workflow developed here provides the foundation for that next phase by supplying the training data and biomechanical outputs needed to build, validate, and integrate those models into future autonomous robot software.
 
+<p align="center">
+<img src="../assets/img/control_loop_robot.png" width="700">
+</p>
+<p align="center"><em>Figure 1. Planned control-loop for rehabilitation robot with surrogate models predictions.</em></p>
+
 ## Project Status
 
 ### Delivered
