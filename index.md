@@ -181,6 +181,8 @@ The project focused on extracting heart rate from the red-light sensor signal al
 
 Built a working end-to-end prototype that strengthened my experience in instrumentation, signal processing, and real-time physiological data analysis.
 
+---
+
 ## Technical Stack
 
 **Core stack:** Python • NumPy/SciPy • OpenCV • PyQt/PySide • hardware APIs • serial/socket communication • scientific GUIs • real-time analysis • automation workflows
