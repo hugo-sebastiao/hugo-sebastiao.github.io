@@ -151,7 +151,7 @@ Created an automated simulation data-generation workflow for surrogate-model tra
 <p align="center">
   <img src="assets/img/control_loop_robot.png" alt="FLIM data example">
 </p>
-<p align="center"><em>Figure 3..</em></p>
+<p align="center"><em>Figure 3. Planned control-loop for a rehabilitation robot with surrogate models' predictions.</em></p>
 
 
 Developed in a research collaboration between Clausthal University of Technology and HAWK Göttingen.
