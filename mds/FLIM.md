@@ -3,7 +3,7 @@ layout: default
 title: FLIM
 --- 
 
-## Multiphoton FLIM Microscope Control Software
+# Multiphoton FLIM Microscope Control Software
 
 **Role:** Scientific Software Engineer / Software Developer  
 **Focus:** Device control, synchronized acquisition, real-time fluorescence lifetime analysis  
@@ -21,7 +21,7 @@ Enabled unified control of the MP-FLIM system, synchronized multi-device acquisi
 **Stack**  
 Python, hardware APIs, TCSPC, real-time processing, scientific instrumentation control, GUI development
 
-### Overview
+## Overview
 
 At the **International Iberian Nanotechnology Laboratory (INL)**, I developed a software platform for control, acquisition, and analysis of a nonlinear multiphoton fluorescence lifetime imaging microscope (MP-FLIM).
 
@@ -31,7 +31,7 @@ This work was developed within the **ExtreMED research project**, focused on ult
 
 ---
 
-### Problem
+## Problem
 
 The microscope combined several specialized subsystems that needed to work together reliably, including:
 
@@ -45,7 +45,7 @@ Off-the-shelf microscope software did not provide the flexibility required for t
 
 ---
 
-### Solution
+## Solution
 I designed and implemented a modular autonomous software platform with a graphical user interface that integrates:
 
 - device communication and control
@@ -59,7 +59,7 @@ I structured the software as independent modules so new hardware, acquisition mo
 
 ---
 
-### System Architecture
+## System Architecture
 
 The software coordinates communication between the control computer and the main microscope subsystems, including:
 
@@ -79,7 +79,7 @@ These components operate within a unified software environment that supports con
 
 ---
 
-### Device Control and Synchronization
+## Device Control and Synchronization
 
 I developed dedicated control modules for the microscope components using **manufacturer APIs and device libraries**. These modules supported:
 
@@ -94,7 +94,7 @@ This allowed multiple hardware interfaces to be integrated into one coordinated 
 
 ---
 
-### Scanning and Image Acquisition
+## Scanning and Image Acquisition
 
 The platform performs image acquisition through controlled scanning and synchronized photon detection.
 
@@ -115,7 +115,7 @@ These acquisition modes supported different imaging configurations and experimen
 
 ---
 
-### Real-Time Fluorescence Lifetime Analysis
+## Real-Time Fluorescence Lifetime Analysis
 
 The platform processes photon arrival data in real time using **time-correlated single photon counting (TCSPC)** signals. Implemented analysis workflows include:
 
@@ -128,7 +128,7 @@ This allowed researchers to assess fluorescence lifetime contrast while experime
 
 ---
 
-### Real-Time Visualization
+## Real-Time Visualization
 
 The software provides live feedback during acquisition, including:
 
@@ -146,7 +146,7 @@ These views supported immediate assessment of image quality, signal quality, and
 
 ---
 
-### Results
+## Results
 
 The platform was successfully applied in laboratory experiments with multi-colour labelled cellular samples.
 
@@ -162,7 +162,7 @@ The result was a single software environment that researchers could use to contr
 
 ---
 
-### Technologies
+## Technologies
 
 - Python
 - hardware API integration
@@ -173,7 +173,7 @@ The result was a single software environment that researchers could use to contr
 
 ---
 
-### Key Contributions
+## Key Contributions
 
 - designed and implemented the software platform for control and analysis of a multiphoton FLIM microscope
 - integrated multiple microscope devices through **manufacturer APIs and device libraries**
@@ -182,6 +182,6 @@ The result was a single software environment that researchers could use to contr
 - structured the software into a **modular architecture** for maintainability and extension
 - developed a **graphical user interface** for microscope control and live visualization
 
-### Engineering Challenges
+## Engineering Challenges
 
 Key challenges included coordinating multiple hardware interfaces, ensuring reliable synchronization across acquisition components, and providing real-time feedback without interrupting the imaging workflow. I designed the platform to keep these responsibilities modular, making the system easier to maintain, extend, and adapt to future experimental requirements.
