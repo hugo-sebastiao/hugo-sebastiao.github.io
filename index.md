@@ -10,6 +10,8 @@ Recent work includes automation software for optical tweezers experiments using 
 
 My ongoing PhD work involves autonomous lower-limb rehabilitation systems using AI-based surrogate models, further strengthening my experience in scientific software, modeling, and hardware-integrated control.
 
+I have experience across microscopy, optical tweezers, physiological sensing, and robotics-integrated research systems.
+
 **Available for freelance projects in scientific software, instrument automation, and custom acquisition systems.** If you need help with instrument software or lab automation, <a href="#contact">get in touch</a>.
 
 <p class="top-links">
@@ -163,7 +165,7 @@ Developed in a research collaboration between Clausthal University of Technology
 
 ### Custom Pulse Measurement System
 
-Developed a pulse measurement system from scratch using an Arduino and an optical finger sensor.
+Developed a custom pulse measurement system from scratch using an Arduino and an optical finger sensor.
 
 The project focused on extracting heart rate from the red-light sensor signal alone, requiring signal acquisition, software processing, and heartbeat detection logic.
 
