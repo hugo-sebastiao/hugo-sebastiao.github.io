@@ -2,10 +2,6 @@
 layout: default
 title: Portfolio
 ---
----
-layout: default
-title: Portfolio
----
 
 # Hugo Sebastião
 
