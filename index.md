@@ -1,12 +1,14 @@
 # Hugo Sebastião
 
-## Scientific Software for Custom Instruments, Lab Automation, and Real-Time Research Workflows
+## Scientific Software for Custom Instruments, Lab Automation, and AI-Driven Research Workflows
 
 I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
-My work focuses on instrument control, device integration, computer vision, data acquisition, automated workflows, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
+My work focuses on instrument control, device integration, computer vision, data acquisition, automated workflows, machine learning models, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
 
 Recent work includes automation software for optical tweezers experiments using computer vision, hardware control, and workflow orchestration, as well as control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis.
+
+My ongoing PhD work involves autonomous lower-limb rehabilitation systems using AI-based surrogate models, further strengthening my experience in scientific software, modeling, and hardware-integrated control.
 
 **Available for freelance projects in scientific software, instrument automation, and custom acquisition systems.** If you need help with instrument software or lab automation, <a href="#contact">get in touch</a>.
 
@@ -15,7 +17,7 @@ Recent work includes automation software for optical tweezers experiments using 
   <span> | </span>
   <a href="#services">Services</a>
   <span> | </span>
-  <a href="#about">About Me</a>
+  <a href="#about">About</a>
   <span> | </span>
   <a href="#contact">Contact</a>
   <span> | </span>
@@ -34,7 +36,7 @@ I am particularly useful when teams are dealing with:
 
 - software that only works when the original developer is there
 - instruments that require too many manual steps
-- fragile integrations between cameras, stages, detectors, and analysis code
+- fragile integrations between cameras, stages, detectors, lasers, and analysis code
 - research prototypes that are hard to extend or trust
 - custom workflows that need to become reliable internal tools
 - multi-device systems that need to work together predictably
@@ -50,7 +52,7 @@ I can help with:
 - integrating cameras, stages, detectors, lasers, and third-party device APIs
 - automating experimental workflows to reduce manual effort and improve throughput
 - developing real-time data acquisition, monitoring, and analysis pipelines
-- applying computer vision to microscopy and lab automation tasks
+- applying computer vision and machine learning to microscopy and lab automation tasks
 - creating scientific Python applications and custom GUIs for internal research use
 - refactoring research code into maintainable, testable software
 - troubleshooting fragile instrument software and improving reliability
@@ -125,10 +127,35 @@ Enabled synchronized measurement and live lifetime analysis in a single software
 </p>
 <p align="center"><em>Figure 2. Example output generated during automated FLIM acquisition and analysis.</em></p>
 
-Developed for real laboratory use at at INL – International Iberian Nanotechnology Laboratory.  
+Developed for real laboratory use at INL – International Iberian Nanotechnology Laboratory.  
 Base software remains in use.
 
 [Read more →](mds/FLIM.html)
+
+---
+
+### Autonomous Rehabilitation Robotics (Ongoing)
+
+Developing a research pipeline for autonomous lower-limb rehabilitation based on AI-driven surrogate models of musculoskeletal dynamics and robotics-integrated control.
+
+The project combines biomechanical modeling, predictive software workflows, and robotic control logic to support future rehabilitation systems for passive mobilization scenarios.
+
+**Highlights**
+
+- musculoskeletal modeling
+- surrogate model development
+- biomechanical simulation workflows
+- robotics-integrated control logic
+- model-based prediction pipeline
+- scientific software for rehabilitation systems
+
+**Outcome**  
+
+The long-term objective is a software-guided robotic system capable of supporting autonomous lower-limb mobilization through model-based control.
+
+Developed in a research collaboration between Clausthal University of Technology and HAWK Göttingen.
+
+[Read more →](mds/musculoskeletal.html)
 
 ---
 
@@ -140,11 +167,11 @@ Additional experience with C/C++, MATLAB, JavaScript, signal and image processin
 
 ---
 
-<h2 id="about">About Me</h2>
+<h2 id="about">About</h2>
 
 I have a background in biomedical engineering and scientific software, with experience building software at the interface of instrumentation, automation, and scientific data analysis.
 
-My work has included software for microscopy, optical tweezers, and hardware-integrated experimental systems where reliability, usability, and maintainability matter in daily operation.
+My work has included software for microscopy, optical tweezers, rehabilitation robotics, and hardware-integrated experimental systems where reliability, usability, and maintainability matter in daily operation.
 
 I am particularly interested in projects involving:
 
@@ -165,6 +192,7 @@ I bring both software engineering and research context to these projects: integr
 If you need help with instrument control, device integration, workflow automation, or research software that has become difficult to maintain, send me a short description of your setup and the problem you are trying to solve.
 
 Helpful starting points include:
+
 - what instrument or system you are working with
 - which hardware or devices are involved
 - what the current bottleneck or software problem is
