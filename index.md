@@ -1,6 +1,6 @@
 # Hugo Sebastião
 
-## Custom Scientific Software for Instrument Control and Lab Automation
+## Scientific Software for Custom Instruments, Lab Automation, and Real-Time Research Workflows
 
 I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
@@ -95,7 +95,7 @@ Reduced hands-on operator involvement and made optical tweezers measurements mor
 </p>
 <p align="center"><em>Figure 1. Example data automatically collected and processed by the optical tweezers automation platform, including sedimentation and fusion measurements.</em></p>
 
-Developed at Technical University of Dresden.
+Developed in a research environment at Technical University of Dresden.
 
 [Read more →](mds/optical_tweezers.html)
 
@@ -125,7 +125,7 @@ Enabled synchronized measurement and live lifetime analysis in a single software
 </p>
 <p align="center"><em>Figure 2. Example output generated during automated FLIM acquisition and analysis.</em></p>
 
-Developed at INL – International Iberian Nanotechnology Laboratory.  
+Developed for real laboratory use at at INL – International Iberian Nanotechnology Laboratory.  
 Base software remains in use.
 
 [Read more →](mds/FLIM.html)
@@ -164,14 +164,13 @@ I bring both software engineering and research context to these projects: integr
 
 If you need help with instrument control, device integration, workflow automation, or research software that has become difficult to maintain, send me a short description of your setup and the problem you are trying to solve.
 
+Helpful starting points include:
+- what instrument or system you are working with
+- which hardware or devices are involved
+- what the current bottleneck or software problem is
+- whether you need troubleshooting, improvement of an existing system, or a new tool built
+
 I take on short consulting engagements, targeted software improvements, and end-to-end development of custom research tools.
-
-Typical starting points:
-
-- integrating a new hardware component into an existing system
-- automating a repetitive experimental workflow
-- improving the reliability of research software
-- building a custom control, acquisition, or analysis tool
 
 LinkedIn: [linkedin.com/in/hugo-mvs-sebastiao](https://www.linkedin.com/in/hugo-mvs-sebastiao)
 
