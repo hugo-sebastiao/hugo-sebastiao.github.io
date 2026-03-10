@@ -155,7 +155,7 @@ Developed in a research collaboration between Clausthal University of Technology
 
 ---
 
-## Additional Projects
+<h2 id="addprojects">Additional projects</h2>
 
 ### Custom Pulse Measurement System
 
