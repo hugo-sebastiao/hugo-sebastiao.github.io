@@ -4,7 +4,7 @@ title: About
 ---
 
 # About
-a
+
 I build scientific software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
 My background is in biomedical engineering and scientific software, and much of my work has been at the interface between experimental research and software engineering. My training combined biomedical instrumentation and data analysis, giving me a strong understanding of both scientific devices and the signals and data they produce.
@@ -35,6 +35,6 @@ I am particularly well suited to projects involving:
 
 I typically work with research labs, advanced R&D teams, deep-tech startups, and groups developing internal tools around custom hardware.
 
-If your setup involves instruments, acquisition, automation, or device integration — and the current software is too manual, too fragile, or too hard to extend — that is usually where I can help most.
+If your setup involves instruments, acquisition, automation, or device integration and the current software is too manual, too fragile, or too hard to extend: that is usually where I can help most.
 
 I typically collaborate through private GitHub repositories and place strong emphasis on writing clear, adaptable software and maintaining transparent communication throughout the project.
