@@ -19,11 +19,11 @@ I have experience across microscopy, optical tweezers, physiological sensing, an
   <span> | </span>
   <a href="#services">Services</a>
   <span> | </span>
+  <a href="#who-i-work-with">Who I Work With</a>
+  <span> | </span>
   <a href="#about">About</a>
   <span> | </span>
   <a href="#contact">Contact</a>
-  <span> | </span>
-  <a href="#who-i-work-with">Who I Work With</a>
 </p>
 
 ---
