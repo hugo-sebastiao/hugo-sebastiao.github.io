@@ -90,7 +90,7 @@ body {
   align-items: flex-start;
 }
 
-.sidebar-nav a {
+.sidebar-nav > a {
   display: block;
   text-decoration: none;
   color: #2b78b8;
@@ -100,7 +100,7 @@ body {
   font-size: 1.1rem;
 }
 
-.sidebar-nav a::before {
+.sidebar-nav > a::before {
   content: "•";
   position: absolute;
   left: 0;
@@ -111,6 +111,36 @@ body {
   line-height: 1;
 }
 
-.sidebar-nav a:hover {
+.sidebar-subnav {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin: 2px 0 8px 22px;
+  align-items: flex-start;
+}
+
+.sidebar-subnav a {
+  display: block;
+  position: relative;
+  padding-left: 14px;
+  font-size: 0.95rem !important;
+  font-weight: 400;
+  color: #4a84b8;
+  text-decoration: none;
+}
+
+.sidebar-subnav a::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+  font-size: 0.95rem;
+  line-height: 1;
+}
+
+.sidebar-nav a:hover,
+.sidebar-subnav a:hover {
   text-decoration: underline;
 }
