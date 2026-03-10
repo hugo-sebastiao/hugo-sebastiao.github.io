@@ -23,10 +23,11 @@ OpenSim, OpenSimCreator, Python, musculoskeletal modeling, optimization workflow
 
 ### Overview
 
-This project supports the long-term development of an autonomous lower-limb rehabilitation robot in which surrogate models can be used inside the control loop for real-time prediction and safe therapy support.
+Safe robot-assisted rehabilitation requires estimates of biomechanical response and robot–limb interaction forces, but full musculoskeletal simulations are too computationally expensive for real-time control. At the same time, training surrogate models for faster prediction requires large datasets that are tedious to generate manually.
 
-My current work focuses on building the simulation and data-generation backbone required for that goal: selecting and adapting the musculoskeletal backend, generating rehabilitation-like motions, estimating 6-DOF attachment wrench, and automating optimizer sweeps to generate training data for surrogate models.
+I developed a musculoskeletal simulation and automation workflow for this problem, including prescribed rehabilitation motion generation, 6-DOF tibia attachment wrench estimation, and an automated sweep pipeline for optimizer-based dataset generation.
 
+The result was a reusable simulation backend for rehabilitation robotics and a faster, more scalable data-generation process, increasing throughput from approximately **10 to 20 simulation points per hour** without continuous user supervision.
 ---
 
 ### Problem
