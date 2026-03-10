@@ -1,3 +1,8 @@
+---
+layout: default
+title: FLIM
+---
+
 ## Multiphoton FLIM Microscope Control Software
 
 **Role:** Scientific Software Engineer / Software Developer  
