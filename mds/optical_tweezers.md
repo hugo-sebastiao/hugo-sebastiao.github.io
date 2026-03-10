@@ -1,3 +1,8 @@
+---
+layout: default
+title: Optical Tweezers Experiment Automation
+---
+
 ## Optical Tweezers Experiment Automation
 
 **Role:** Software Developer / Automation Engineer  
