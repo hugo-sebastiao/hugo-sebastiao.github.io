@@ -22,8 +22,7 @@ Enabled unified control of the MP-FLIM system, synchronized multi-device acquisi
 Python, hardware APIs, TCSPC, real-time processing, scientific instrumentation control, GUI development
 
 ## Overview
-
-At the **International Iberian Nanotechnology Laboratory (INL)**, I developed a software platform for control, acquisition, and analysis of a nonlinear multiphoton fluorescence lifetime imaging microscope (MP-FLIM).
+At the International Iberian Nanotechnology Laboratory (INL), I developed a software platform for control, acquisition, and analysis of a nonlinear multiphoton fluorescence lifetime imaging microscope (MP-FLIM).
 
 The platform brought together hardware control, scanning orchestration, photon acquisition, real-time fluorescence lifetime analysis, and live visualization in a single software environment for biological imaging experiments.
 
@@ -46,7 +45,7 @@ Off-the-shelf microscope software did not provide the flexibility required for t
 ---
 
 ## Solution
-I designed and implemented a modular autonomous software platform with a graphical user interface that integrates:
+I designed and implemented a modular software platform with a graphical user interface that integrates:
 
 - device communication and control
 - synchronized scanning workflows
@@ -172,15 +171,6 @@ The result was a single software environment that researchers could use to contr
 - GUI development
 
 ---
-
-## Key Contributions
-
-- designed and implemented the software platform for control and analysis of a multiphoton FLIM microscope
-- integrated multiple microscope devices through **manufacturer APIs and device libraries**
-- developed **real-time fluorescence lifetime analysis workflows**
-- implemented synchronized **scanning and photon acquisition**
-- structured the software into a **modular architecture** for maintainability and extension
-- developed a **graphical user interface** for microscope control and live visualization
 
 ## Engineering Challenges
 
