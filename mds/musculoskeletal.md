@@ -160,7 +160,7 @@ The simulation and automated data-generation workflow developed here provides th
 - automated parameter sweeps
 - AI surrogate-model data pipeline design
 
-## Key Contributions
+## Key Contributions (summary)
 
 - selected and configured the musculoskeletal simulation backend for rehabilitation use
 - identified a lower-limb model suitable for rehabilitation-relevant ROM and passive-force analysis
