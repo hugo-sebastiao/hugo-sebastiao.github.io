@@ -33,3 +33,13 @@ hr {
   background-color: #d0d0d0;
   margin: 2.5rem 0;
 }
+body {
+  background:
+    linear-gradient(to right,
+      #ecebe7 0%,
+      #f8f8f6 8%,
+      #ffffff 18%,
+      #ffffff 82%,
+      #f8f8f6 92%,
+      #ecebe7 100%);
+}
