@@ -3,7 +3,7 @@ layout: default
 title: Optical Tweezers Experiment Automation
 --- 
 
-## Optical Tweezers Experiment Automation
+# Optical Tweezers Experiment Automation
 
 **Role:** Software Developer / Automation Engineer  
 **Focus:** Computer vision, hardware integration, workflow automation  
@@ -21,7 +21,7 @@ Automated nearly the full experimental workflow and achieved approximately **20 
 **Stack**  
 Python, computer vision, YOLO-NAS, hardware APIs, socket communication, GUI development, automation workflows
 
-### Overview
+## Overview
 
 At the **Technical University of Dresden**, I developed a Python-based automation platform for optical tweezers experiments, integrating computer vision, device control, experiment orchestration, and automated measurement workflows.
 
@@ -31,7 +31,7 @@ Optical tweezers use highly focused laser beams to manipulate microscopic partic
 
 ---
 
-### Problem
+## Problem
 
 The experimental workflow depended on continuous manual control and manual data extraction, which reduced throughput and required researchers to remain at the instrument for long periods.
 
@@ -47,7 +47,7 @@ To automate the setup reliably, the software needed to:
 
 ---
 
-### Solution
+## Solution
 
 I designed and implemented the automation software platform for the optical tweezers setup, integrating computer vision, device control, experiment orchestration, automated measurement routines, and graphical user interaction into a single system.
 
@@ -57,7 +57,7 @@ A unified software layer coordinated heterogeneous hardware devices through thei
 
 ---
 
-### Impact
+## Impact
 
 The platform automated nearly the entire workflow, replacing continuous manual operation with autonomous droplet detection, capture, and measurement execution while researchers could focus on other tasks.
 
@@ -69,7 +69,7 @@ This reduced hands-on instrument time, increased experimental throughput, and ma
 
 Some visual examples have been simplified or anonymized to respect institutional data policies. The focus of this project description is the software architecture and automation logic.
 
-### Droplet Detection
+## Droplet Detection
 
 Reliable droplet detection was a core requirement for full automation. I developed and trained a **YOLO-NAS-based computer vision model** capable of detecting droplets in the live camera feed and distinguishing them from debris and other artifacts.
 
@@ -88,7 +88,7 @@ An automation workflow was built around this model to:
 
 ---
 
-### Automated Droplet Capture
+## Automated Droplet Capture
 
 I implemented an automated routine to capture droplets detected in the visual field. The algorithm determines whether a droplet is already trapped in the laser beam. If not, the system moves the motorized stage to the droplet position and captures it with the optical trap.
 
@@ -98,7 +98,7 @@ This routine formed a core control loop of the platform, linking computer vision
 
 ---
 
-### Measurement Workflows
+## Measurement Workflows
 
 I implemented measurement routines for:
 
@@ -150,7 +150,7 @@ The timing plots below illustrate the execution time of automated measurements f
 
 ---
 
-### Platform Engineering
+## Platform Engineering
 
 To support reliable day-to-day operation, I also implemented several platform-level features:
 
@@ -163,7 +163,7 @@ Communication and control were implemented through available **device APIs and h
 
 ---
 
-### Technologies
+## Technologies
 
 - Python
 - GUI development
@@ -178,7 +178,7 @@ Communication and control were implemented through available **device APIs and h
 
 ---
 
-### Key Contributions
+## Key Contributions
 
 - designed and developed the main automation software for optical tweezers experiments
 - developed a unified software layer to coordinate heterogeneous hardware devices through their vendor APIs
@@ -188,6 +188,6 @@ Communication and control were implemented through available **device APIs and h
 - integrated multiple hardware devices into a unified control system
 - implemented logging, safety constraints, and microfluidics support
 
-### Engineering Challenges
+## Engineering Challenges
 
 Key challenges included reliable droplet detection in live microscopy images, translating image coordinates into physical stage movements, coordinating heterogeneous hardware through different vendor interfaces, and maintaining safe automated operation during repeated measurement cycles.
