@@ -4,7 +4,7 @@
 
 I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
-My work focuses on instrument control, device integration, computer vision, data acquisition, automated workflows, machine learning models, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
+My work focuses on instrument control, device integration, computer vision, data acquisition, automated workflows, AI models, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
 
 Recent work includes automation software for optical tweezers experiments using computer vision, hardware control, and workflow orchestration, as well as control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis.
 
