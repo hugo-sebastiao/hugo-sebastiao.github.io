@@ -89,6 +89,14 @@ The software unified droplet detection, hardware coordination, experiment execut
 
 Reduced hands-on operator involvement and made optical tweezers measurements more repeatable through workflow automation.
 
+
+<p align="center">
+  <img src="assets/img/sed_time.png" alt="sed time" width="30%">
+  <img src="assets/img/fusion_time.png" alt="fusion time" width="30%">
+  <img src="assets/img/hig_low_sed.png" alt="fusion time" width="30%">
+</p>
+<p align="center"><em>Figure 1. Automated gathered data by the software for fusion and sedimentation plus study data of protein A and B from data obtained using the software.</em></p>
+
 Developed at Technical University of Dresden.
 
 [Read more →](mds/optical_tweezers.html)
@@ -114,11 +122,10 @@ The system was built to coordinate multiple hardware and acquisition components 
 
 Enabled synchronized measurement and live lifetime analysis in a single software environment used in day-to-day microscope operation.
 
-<div class="image-row">
-  <img src="sed_time.png" alt="sed time">
-  <img src="fusion_time.png" alt="fusion time">
-  <img src="image3.jpg" alt="Project 3">
-</div>
+<p align="center">
+  <img src="assets/img/thesis_data.png" alt="cell example">
+</p>
+<p align="center"><em>Figure 2. Data obtained by the automated device control software.</em></p>
 
 
 Developed at INL – International Iberian Nanotechnology Laboratory.  
