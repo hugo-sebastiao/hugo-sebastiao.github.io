@@ -33,18 +33,28 @@ section {
 @media screen and (max-width: 960px) {
   body {
     background: #f8f8f6;
-    padding-left: 16px;
-    padding-right: 16px;
+    margin: 0;
+    padding: 0;
   }
 
   .wrapper {
-    width: auto;
-    padding-top: 20px;
+    width: auto !important;
+    margin: 0 !important;
+    padding: 20px 16px !important;
   }
 
   header,
   section {
-    width: auto;
+    width: auto !important;
+    margin: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    box-sizing: border-box;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
   }
 }
 
