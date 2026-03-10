@@ -4,3 +4,15 @@ description: Hugo Sebastiao
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
+
+nav:
+  - title: Projects
+    url: /#projects
+  - title: Services
+    url: /#services
+  - title: Who I Work With
+    url: /#who-i-work-with
+  - title: About
+    url: /#about
+  - title: Contact
+    url: /#contact
