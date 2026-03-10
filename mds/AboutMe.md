@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # About
 
 I build scientific software for custom instruments, automated experiments, and hardware-integrated research workflows.
