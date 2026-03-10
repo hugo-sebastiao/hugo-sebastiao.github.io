@@ -30,6 +30,22 @@ section {
   width: 780px;
 }
 
+@media screen and (max-width: 960px) {
+  body {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .wrapper {
+    width: auto;
+  }
+
+  header,
+  section {
+    width: auto;
+  }
+}
+
 hr {
   border: none;
   height: 2px;
