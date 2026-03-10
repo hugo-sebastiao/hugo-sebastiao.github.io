@@ -114,6 +114,13 @@ The system was built to coordinate multiple hardware and acquisition components 
 
 Enabled synchronized measurement and live lifetime analysis in a single software environment used in day-to-day microscope operation.
 
+<div class="image-row">
+  <img src="sed_time.png" alt="sed time">
+  <img src="fusion_time.png" alt="fusion time">
+  <img src="image3.jpg" alt="Project 3">
+</div>
+
+
 Developed at INL – International Iberian Nanotechnology Laboratory.  
 Base software remains in use.
 
