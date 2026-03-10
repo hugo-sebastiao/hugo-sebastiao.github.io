@@ -67,7 +67,7 @@ I typically work with research and R&D teams building or operating custom scient
 
 <h2 id="projects">Featured Projects</h2>
 
-### Optical Tweezers Experiment Automation
+<h3 id="optical-tweezers">Optical Tweezers Experiment Automation</h3>
 
 Developed a Python-based automation platform for optical tweezers experiments, integrating computer vision, hardware control, and automated measurement workflows into a modular system capable of running experiments with minimal user intervention.
 
@@ -99,7 +99,7 @@ Developed in a research environment at Technical University of Dresden.
 
 ---
 
-### Multiphoton FLIM Microscope Control Software
+<h3 id="flim">Multiphoton FLIM Microscope Control Software</h3>
 
 Developed control software for a multiphoton fluorescence lifetime imaging microscope, integrating device control, synchronized scanning, TCSPC acquisition, and real-time lifetime analysis into a unified software environment.
 
@@ -130,7 +130,7 @@ Base software remains in use.
 
 ---
 
-### Autonomous Rehabilitation Robotics (Ongoing)
+<h3 id="rehab-robotics">Autonomous Rehabilitation Robotics</h3>
 
 Developing a research pipeline for autonomous lower-limb rehabilitation based on AI-driven surrogate models of musculoskeletal dynamics and robotics-integrated control.
 
