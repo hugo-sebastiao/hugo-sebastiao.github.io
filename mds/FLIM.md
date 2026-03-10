@@ -16,7 +16,7 @@ Custom multiphoton FLIM systems combine multiple specialized hardware components
 I developed a modular software platform for microscope control, synchronized scanning, photon acquisition, real-time fluorescence lifetime analysis, and live visualization.
 
 **Outcome**  
-Enabled unified control of the MP-FLIM system, synchronized multi-device acquisition, and real-time lifetime imaging for biological experiments with multi-colour labelled samples.
+Enabled unified control of the MP-FLIM system, synchronized multi-device acquisition, and real-time lifetime imaging for biological experiments with multi-colour labelled samples. By integrating device control, acquisition, and analysis into a single software environment, it made fluorescence lifetime imaging more practical for studying biologically relevant structures.
 
 **Stack**  
 Python, hardware APIs, TCSPC, real-time processing, scientific instrumentation control, GUI development
