@@ -1,18 +1,16 @@
 # Hugo Sebastião
 
-## Scientific Software for Custom Instruments, Lab Automation, and AI-Driven Research Workflows
+## Scientific Software for Custom Instruments and Lab Automation
 
 I help research labs and deep-tech teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
-My work focuses on instrument control, device integration, computer vision, data acquisition, automated workflows, AI models, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
+My work covers instrument control, device integration, computer vision, data acquisition, automated workflows, AI models, and real-time analysis — especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
 
-Recent work includes automation software for optical tweezers experiments using computer vision, hardware control, and workflow orchestration, as well as control software for a multiphoton FLIM microscope with synchronized acquisition and real-time lifetime analysis.
+I have built software for optical tweezers, multiphoton FLIM microscopy, physiological sensing, and rehabilitation robotics, including systems used in real laboratory environments.
 
-My ongoing PhD work involves autonomous lower-limb rehabilitation systems using AI-based surrogate models, further strengthening my experience in scientific software, modeling, and hardware-integrated control.
+**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems.**
 
-I have experience across microscopy, optical tweezers, physiological sensing, and robotics-integrated research systems.
-
-**Available for freelance projects in scientific software, instrument automation, and custom acquisition systems.** If you need help with instrument software or lab automation, <a href="#contact">get in touch</a>.
+**Need help? <a href="#contact">Get in touch</a>.**
 
 <p class="top-links">
   <a href="#projects">Projects</a>
