@@ -7,9 +7,9 @@ title: About
 
 I build scientific software for custom instruments, automated experiments, and hardware-integrated research workflows.
 
-My background is in biomedical engineering and scientific software, and much of my work has been at the interface between experimental research and software engineering. My training combined biomedical instrumentation and data analysis, giving me a strong understanding of both scientific devices and the signals and data they produce.
+I come from a biomedical engineering background, with training in instrumentation, physiological signals, and scientific data analysis. In research environments, this developed into a specialization in scientific software for experimental systems, particularly where software must interact directly with hardware, acquisition workflows, and real-time measurement processes.
 
-Over time, I became particularly interested in projects where software does more than support analysis after the fact. I focus on systems where software actively coordinates instruments, acquisition, automation, and real-time decision-making during experiments.
+Because of that, I work comfortably across both domains: the engineering side of building maintainable software and the research side of understanding how instruments, data, and laboratory workflows behave in practice.
 
 I work best on problems where multiple devices, software components, and experimental steps need to function together reliably. This often includes instrument control, device integration, scientific GUIs, automated workflows, computer vision, and real-time analysis. I also build reliable automation for complex workflows that would otherwise require extensive manual effort.
 
