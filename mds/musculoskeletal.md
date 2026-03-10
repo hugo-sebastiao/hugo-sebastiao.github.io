@@ -125,7 +125,7 @@ The simulation and automated data-generation workflow developed here provides th
 <p align="center">
 <img src="../assets/img/control_loop_robot.png" width="700">
 </p>
-<p align="center"><em>Figure 1. Planned control-loop for rehabilitation robot with surrogate models predictions.</em></p>
+<p align="center"><em>Figure 1. Planned control-loop for a rehabilitation robot with surrogate models' predictions.</em></p>
 
 ## Project Status
 
