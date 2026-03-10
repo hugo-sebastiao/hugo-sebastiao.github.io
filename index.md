@@ -65,7 +65,7 @@ I typically work with research and R&D teams building or operating custom scient
 
 ---
 
-<h2 id="projects">Selected Work</h2>
+<h2 id="projects">Main Projectsk</h2>
 
 ### Optical Tweezers Experiment Automation
 
