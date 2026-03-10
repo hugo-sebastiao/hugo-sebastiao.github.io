@@ -13,7 +13,7 @@ title: FLIM
 Custom multiphoton FLIM systems combine multiple specialized hardware components that must operate in tight synchronization. Commercial microscope software often lacks the flexibility needed for custom device integration, acquisition workflows, and real-time fluorescence lifetime analysis.
 
 **Built**  
-I developed a modular software platform for microscope control, synchronized scanning, photon acquisition, real-time fluorescence lifetime analysis, and live visualization.
+I developed a modular software platform for microscope control, synchronized scanning, photon acquisition, real-time fluorescence lifetime analysis, and live visualization, integrating the microscope subsystems into a single environment for coordinated control and automated acquisition routines.
 
 **Outcome**  
 Enabled unified control of the MP-FLIM system, synchronized multi-device acquisition, and real-time lifetime imaging for biological experiments with multi-colour labelled samples. By integrating device control, acquisition, and analysis into a single software environment, it made fluorescence lifetime imaging more practical for studying biologically relevant structures.
@@ -46,14 +46,14 @@ Off-the-shelf microscope software did not provide the flexibility required for t
 ---
 
 ### Solution
-
-I designed and implemented a modular software platform that integrates:
+I designed and implemented a modular autonomous software platform with a graphical user interface that integrates:
 
 - device communication and control
 - synchronized scanning workflows
 - photon data acquisition
 - real-time fluorescence lifetime computation
 - live visualization and analysis tools
+
 
 I structured the software as independent modules so new hardware, acquisition modes, and analysis workflows could be added without rewriting the full system.
 
