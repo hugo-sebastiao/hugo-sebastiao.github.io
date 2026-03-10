@@ -178,7 +178,7 @@ Communication and control were implemented through available **device APIs and h
 
 ---
 
-## Key Contributions
+## Key Contributions (summary)
 
 - designed and developed the main automation software for optical tweezers experiments
 - developed a unified software layer to coordinate heterogeneous hardware devices through their vendor APIs
