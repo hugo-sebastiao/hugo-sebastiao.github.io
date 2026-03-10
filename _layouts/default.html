@@ -24,7 +24,12 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <nav class="sidebar-nav">
           <a href="{{ '/#projects' | relative_url }}">Featured Projects</a>
-          <a href="{{ '/#addprojects' | relative_url }}">Additional Projects</a>
+          <div class="sidebar-subnav">
+            <a href="{{ '/#optical-tweezers' | relative_url }}">Optical Tweezers</a>
+            <a href="{{ '/#flim' | relative_url }}">FLIM Microscope</a>
+            <a href="{{ '/#rehab-robotics' | relative_url }}">Rehabilitation Robotics</a>
+            <a href="{{ '/#addprojects' | relative_url }}">Additional Projects</a>
+          </div>
           <a href="{{ '/#services' | relative_url }}">Services</a>
           <a href="{{ '/#who-i-work-with' | relative_url }}">Who I Work With</a>
           <a href="{{ '/#about' | relative_url }}">About</a>
