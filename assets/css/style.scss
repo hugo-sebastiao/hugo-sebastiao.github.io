@@ -65,16 +65,19 @@ body {
   color: #2b78b8;
   font-weight: 500;
   position: relative;
-  padding-left: 14px;
+  padding-left: 20px;   /* was 14px */
+  font-size: 1.1rem;    /* add this */
 }
 
 .sidebar-nav a::before {
   content: "•";
   position: absolute;
   left: 0;
-  top: 0;
+  top: 50%;             /* change from 0 */
+  transform: translateY(-50%); /* add this */
   color: #666;
-}
+  font-size: 1.2rem;    /* add this */
+  line-height: 1;       /* add this */
 
 .sidebar-nav a:hover {
   text-decoration: underline;
