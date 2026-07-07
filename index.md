@@ -56,6 +56,19 @@ Typical projects include:
 - automating manual experimental procedures
 - stabilizing and extending research software developed during prototyping
 
+For imaging and data-heavy research groups
+I help research groups turn repeated image/data-analysis steps into reusable Python workflows, batch-processing tools, automated QC/reporting pipelines, and small user-facing applications.
+
+Typical support includes:
+
+- organizing image-derived datasets and metadata
+- automating repeated analysis steps
+- building reproducible figure/report generation workflows
+- adding QC plots, logs, and clear outputs
+- converting fragile one-off scripts into documented tools
+- creating simple GUIs for researchers who do not want to run scripts manually
+
+
 ---
 
 <h2 id="who-i-work-with">Who I Work With</h2>
