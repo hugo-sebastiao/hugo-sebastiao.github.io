@@ -6,12 +6,11 @@ title: Portfolio
 # Hugo Sebastião
 
 ## Scientific Software for Custom Instruments and Lab Automation
-
-I help research labs and technical teams build reliable software for custom instruments, automated experiments, and hardware-integrated research workflows.
+I help research labs and technical teams build reliable software for custom instruments, automated experiments, and image/data-analysis workflows.
 
 I bring both software engineering and domain fluency, allowing me to work effectively with biologists, clinicians, and research teams while building systems that match real experimental workflows.
 
-My work covers instrument control, device integration, computer vision, data acquisition, automated workflows, and real-time analysis, especially where experiments are still too manual, systems are fragile, or multiple devices need to work together reliably.
+My work covers instrument control, device integration, computer vision, data acquisition, automated workflows, real-time analysis, and reproducible research-software tools, especially where experiments are still too manual, systems are fragile, or analysis steps are difficult to reuse.
 
 I have built software for optical tweezers, multiphoton FLIM microscopy, physiological sensing, and rehabilitation robotics in research environments at TU Dresden, INL, and Clausthal University/HAWK Göttingen.
 
@@ -56,7 +55,7 @@ Typical projects include:
 - automating manual experimental procedures
 - stabilizing and extending research software developed during prototyping
 
-For imaging and data-heavy research groups
+### For imaging and data-heavy research groups
 I help research groups turn repeated image/data-analysis steps into reusable Python workflows, batch-processing tools, automated QC/reporting pipelines, and small user-facing applications.
 
 Typical support includes:
@@ -224,6 +223,8 @@ I am particularly interested in projects involving:
 <h2 id="contact">Contact</h2>
 
 If you need help with instrument control, device integration, workflow automation, or research software that has become difficult to maintain, send me a short description of your setup and the problem you are trying to solve.
+
+If your bottleneck is not hardware-related, you can also describe the image/data-analysis workflow, the repeated manual steps, and the type of output you need.
 
 Helpful starting points include:
 
